@@ -54,7 +54,7 @@ body {
 }
 
 .navbar-collapse {
-    background-color: #00A383;
+    background-color: #00BAAC;
 }
 
 .navbar-nav>li>a , .navbar-nav>li>ul>li>a{
@@ -104,6 +104,14 @@ body {
     background-color: #000 !important;
 }
 
+.item{
+   height: 240px;
+}
+
+.item img {
+    height: 240px !important;
+}
+
 @media(min-width:768px) {
 
     body {
@@ -145,7 +153,7 @@ body {
         border: none;
         border-radius: 0;
         overflow-y: auto;
-        background-color: #00A383;
+        background-color: #00BAAC;
         bottom: 0;
         overflow-x: hidden;
         padding-bottom: 10px;
@@ -153,6 +161,10 @@ body {
 
     .item{
        height: 480px;
+    }
+
+    .item img {
+        height: 480px !important;
     }
 
     .side-nav>li>a {
@@ -175,7 +187,7 @@ body {
         background-color: #49BAA4;
         color: #222;
         font-weight: bold;
-        border-bottom: solid 1px #00A383;
+        border-bottom: solid 1px black;
         text-decoration: none;
         text-align: center;
         padding: 5px 10px 5px 5px;
