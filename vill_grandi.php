@@ -31,56 +31,7 @@
                             <br>
                             <img class="center" src="img/grandi/grandi_13.jpg" oncontextmenu="return false;">
                         </p>
-                        <div id="myCarousel1" class="carousel slide" data-ride="carousel">
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox">
-                                <div class="item active">
-                                    <img class="center" src="img/grandi/grandi_01.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_02.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_03.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_04.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_05.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_06.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_07.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_08.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_09.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_10.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_11.jpg" oncontextmenu="return false;">
-                                </div>
-                                <div class="item">
-                                    <img class="center" src="img/grandi/grandi_12.jpg" oncontextmenu="return false;">
-                                </div>
-                            </div>
-                            <!-- Left and right controls -->
-                            <a class="left carousel-control" href="#myCarousel1" role="button" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="right carousel-control" href="#myCarousel1" role="button" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
-                        </div>
+                        <?php slider('img\grandi', 1);?>
                     </div>
                 </div>
                 <!-- /.row -->
