@@ -3,7 +3,7 @@
 }
 
 footer {
-    background-color: #ff6400;
+    background-color: #3b5998;
     color: white;
     text-align: center;
     font-size: 2.5vw;
@@ -16,7 +16,7 @@ img {
 }
 
 body {
-    background-color: #FFCC66;
+    background-color: white;
 }
 
 table {
@@ -50,7 +50,7 @@ td, tr {
     text-align: center;
     font-size: 2.5vw;
     padding: 10px;
-    background-color: #ff6400;
+    background-color: #3b5998;
     width: 100%;
 }
 
@@ -63,17 +63,16 @@ td, tr {
 }
 
 .navbar-collapse {
-    background-color: #00BAAC;
+    background-color: #dfe3ee;
 }
 
 .navbar-nav>li>a , .navbar-nav>li>ul>li>a{
     color: black !important;
     font-weight: bold;
-    border-bottom: solid 1px black;
 }
 
 .navbar-toggle:hover {
-    background-color: #ff6400 !important; 
+    background-color: #3b5998 !important; 
 }
 .huge {
     font-size: 50px;
@@ -94,7 +93,7 @@ td, tr {
 #page-wrapper {
     width: 100%;
     padding: 40px;
-    background-color: #FFCC66;
+    background-color: white;
 }
 
 /* Side Navigation */
@@ -107,10 +106,7 @@ td, tr {
 }
 
 .side-nav>li>ul>li>a:hover {
-    color: #fff !important;
-    outline: none;
-    text-decoration: none;
-    background-color: #000 !important;
+    background-color: #3b5998 !important; 
 }
 
 .item{
@@ -149,7 +145,7 @@ td, tr {
         text-align: center;
         font-size: 2.5vw;
         padding: 10px;
-        background-color: #ff6400;
+        background-color: #3b5998;
         height: 100px;
     }
 
@@ -162,7 +158,7 @@ td, tr {
         border: none;
         border-radius: 0;
         overflow-y: auto;
-        background-color: #00BAAC;
+        background-color: #dfe3ee;
         bottom: 0;
         overflow-x: hidden;
         padding-bottom: 10px;
@@ -182,7 +178,6 @@ td, tr {
         text-align: center;
         text-transform: uppercase;
         font-weight: bold; 
-        border-bottom: solid 1px black;
     }
 
     .side-nav>li>ul {
@@ -193,10 +188,9 @@ td, tr {
     .side-nav>li>ul>li>a {
         display: block;
         margin-left: -50px;
-        background-color: #49BAA4;
+        background-color: #dfe3ee;
         color: #222;
         font-weight: bold;
-        border-bottom: solid 1px black;
         text-decoration: none;
         text-align: center;
         padding: 5px 10px 5px 5px;
@@ -205,6 +199,6 @@ td, tr {
     .side-nav li a:hover,
     .side-nav li a:focus {
         outline: none;
-        background-color: #ff6400 !important;
+        background-color: #3b5998 !important;
     }
 }
