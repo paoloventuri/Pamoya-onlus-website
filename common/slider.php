@@ -4,10 +4,10 @@
         echo '<div id="myCarousel'.$num.'" class="carousel slide" data-ride="carousel">';
         echo '<div class="carousel-inner" role="listbox">';
 
-        $files = glob($dir.'\*.*');
+        $files = glob(DOCROOT.$dir.'/*.*');
 
         for ($i=1; $i<count($files); $i++) {
-            $image = $files[$i];
+            $image = str_replace(DOCROOT, '', $files[$i]);
 
             if($i==1){
                 echo '<div class="item active">';

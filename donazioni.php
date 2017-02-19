@@ -2,19 +2,20 @@
 <html lang="it">
 
 <head>
+    <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
     <title>Per donazioni - Associazione Pamoya Onlus</title>
 
-    <?php include 'common\head.php';?>
+    <?php include DOCROOT.'common/head.php';?>
 </head>
 <body>
     <div id="wrapper"> <meta name="viewport" content="width=device-width">
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <?php include 'common\header.php';?>
+            <?php include DOCROOT.'common/header.php';?>
 
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-            <?php include 'common\menu.php';?>
+            <?php include DOCROOT.'common/menu.php';?>
             <!-- /.navbar-collapse -->
         </nav>
 
@@ -74,7 +75,7 @@
             <!-- /.container-fluid -->
         </div>
         <!-- /#wrapper -->
-        <?php include 'common\footer.php';?>        
+        <?php include DOCROOT.'common/footer.php';?>        
     </div>
     <!-- /#page-wrapper -->
 

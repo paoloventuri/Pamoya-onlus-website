@@ -2,9 +2,11 @@
 <html lang="it">
 
 <head>
+    <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
+    
     <title>Ospedale di Ikelu - Associazione Pamoya Onlus</title>
 
-    <?php include 'common\head.php';?>
+    <?php include DOCROOT.'common/head.php';?>
 </head>
 
 <body>
@@ -12,10 +14,10 @@
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <?php include 'common\header.php';?>
+            <?php include DOCROOT.'common/header.php';?>
 
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-            <?php include 'common\menu.php';?>
+            <?php include DOCROOT.'common/menu.php';?>
             <!-- /.navbar-collapse -->
         </nav>
 
@@ -43,13 +45,13 @@
                         </p>
                         <br>
                         <h3 id="centr">OSPEDALE DI IKELU AL LAVORO</h3>
-                        <?php slider('img\ikelu\ikelu_04', 1);?>
+                        <?php slider('img/ikelu/ikelu_04', 1);?>
                         <br>
                         <h3 id="centr">7 OTTOBRE 2011: INAUGURAZIONE OSPEDALE DI IKELU</h3>
-                        <?php slider('img\ikelu\ikelu_06', 2);?>
+                        <?php slider('img/ikelu/ikelu_06', 2);?>
                         <br>
                         <h3 id="centr">LE VARIE FASI DELLA COSTRUZIONE</h3>
-                        <?php slider('img\ikelu\ikelu_07', 3);?>
+                        <?php slider('img/ikelu/ikelu_07', 3);?>
                         <br>
                         <br>
                     </div>
@@ -60,7 +62,7 @@
             <!-- /.container-fluid -->
         </div>
         <!-- /#page-wrapper -->
-        <?php include 'common\footer.php';?>
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#wrapper -->
 

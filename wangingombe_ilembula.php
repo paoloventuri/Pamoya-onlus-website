@@ -2,9 +2,11 @@
 <html lang="it">
 
 <head>
+    <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
+    
     <title>Wangingombe e Ilembula - Associazione Pamoya Onlus</title>
 
-    <?php include 'common\head.php';?>
+    <?php include DOCROOT.'common/head.php';?>
 </head>
 
 <body>
@@ -12,10 +14,10 @@
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <?php include 'common\header.php';?>
+            <?php include DOCROOT.'common/header.php';?>
 
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-            <?php include 'common\menu.php';?>
+            <?php include DOCROOT.'common/menu.php';?>
             <!-- /.navbar-collapse -->
         </nav>
 
@@ -36,7 +38,7 @@
                             Don Tarcisio già pensa di estendere il servizio e di crearne di nuovi.<br>
                             I progetti diventano realtà quando c'è personale necessario e quando la generosità degli offerenti non viene meno.
                         </p>
-                        <?php slider('img\wangingombe_ilembula\ilembula', 1);?>
+                        <?php slider('img/wangingombe_ilembula/ilembula', 1);?>
                         <h1 class="page-header">Villaggio e missione a Ilembula</h1>
                         <p>
                             Questo territorio grande circa 300 metri per 100 è stato comperato per costruire il villaggio degli orfani ed assimilati, sono previste 8 case più una per i servizi comunitari. Le case sono così strutturate: un ingresso nel cortile, sul lato destro ci sono la cucina, il ripostiglio ed i servizi, sull'altro lato invece sorgono 5 stanze che ospiteranno i bambini orfani con le &quot;mamme&quot; che si prenderanno cura di loro. Il fabbricato per i servizi comunitari sarà composto da un'infermeria e da un ufficio per l'accoglienza, un fabbricato quindi a servizio della comunità ed offrirà servizi pubblici al paese.<br>
@@ -46,7 +48,7 @@
                             I costi maggiori per la costruzione di questo villaggio sono il cemento, il ferro, la copertura del tetto con lamiere e legno, e piastrelle che verranno messe solo nella zona soggiorno, nelle altre stanze il pavimento sarà effettuato con cemento lisciato.<br>
                             Una volta terminati i lavori di costruzione verranno coltivate diverse piante di frutta, quali manghi, papaia e avocado.
                         </p>
-                        <?php slider('img\wangingombe_ilembula\wangingombe', 2);?>
+                        <?php slider('img/wangingombe_ilembula/wangingombe', 2);?>
                     </div>
                 </div>
                 <!-- /.row -->
@@ -56,7 +58,7 @@
 
         </div>
         <!-- /#page-wrapper -->
-        <?php include 'common\footer.php';?>
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#wrapper -->
 

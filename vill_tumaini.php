@@ -2,9 +2,11 @@
 <html lang="it">
 
 <head>
+    <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
+    
     <title>Villaggio Tumaini - Associazione Pamoya Onlus</title>
 
-    <?php include 'common\head.php';?>
+    <?php include DOCROOT.'common/head.php';?>
 </head>
 
 <body>
@@ -12,10 +14,10 @@
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <?php include 'common\header.php';?>
+            <?php include DOCROOT.'common/header.php';?>
 
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-            <?php include 'common\menu.php';?>
+            <?php include DOCROOT.'common/menu.php';?>
             <!-- /.navbar-collapse -->
         </nav>
 
@@ -46,7 +48,7 @@
                             In particolare si prende cura delle necessità di circa 200 sieropositivi a cui assicura gli alimenti, i viaggi in ospedale, l'istruzione dei figli ed il microcredito.<br>
                             La promiscuità, la cultura tribale, la mancanza di istruzione e la fiducia negli stregoni, che si arricchiscono sulla pelle di gente malata, sono le cause principali della crescita del numero dei sieropositivi e, naturalmente, delle loro morti precoci.<br>
                         </p>
-                        <?php slider('img\tumaini', 1);?>
+                        <?php slider('img/tumaini', 1);?>
                     </div>
                 </div>
                 <!-- /.row -->
@@ -56,7 +58,7 @@
 
         </div>
         <!-- /#page-wrapper -->
-        <?php include 'common\footer.php';?>
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#wrapper -->
 

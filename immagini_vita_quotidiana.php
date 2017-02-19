@@ -2,9 +2,11 @@
 <html lang="it">
 
 <head>
+    <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
+    
     <title>Immagini di vita quotidiana - Associazione Pamoya Onlus</title>
 
-    <?php include 'common\head.php';?>
+    <?php include DOCROOT.'common/head.php';?>
 </head>
 
 <body>
@@ -12,10 +14,10 @@
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <?php include 'common\header.php';?>
+            <?php include DOCROOT.'common/header.php';?>
 
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-            <?php include 'common\menu.php';?>
+            <?php include DOCROOT.'common/menu.php';?>
             <!-- /.navbar-collapse -->
         </nav>
 
@@ -27,10 +29,10 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Immagini di vita quotidiana</h1>
-                        <?php slider('img\vita\vita_01', 1);?>
+                        <?php slider('img/vita/vita_01', 1);?>
                         <br>
                         <br>
-                        <?php slider('img\vita\vita_02', 2);?>
+                        <?php slider('img/vita/vita_02', 2);?>
                     </div>
                 </div>
                 <!-- /.row -->
@@ -40,7 +42,7 @@
 
         </div>
         <!-- /#page-wrapper -->
-        <?php include 'common\footer.php';?>
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#wrapper -->
 
