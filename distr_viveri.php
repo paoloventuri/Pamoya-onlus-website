@@ -2,32 +2,9 @@
 <html lang="it">
 
 <head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
     <title>Distribuzione viveri - Associazione Pamoya Onlus</title>
-    <link rel="shortcut icon" href="img/favicon.ico" />
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="css/sb-admin.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
+    <?php include 'common\head.php';?>
 </head>
 
 <body>
@@ -35,54 +12,10 @@
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <img id="logo" src="img/logo.jpg" oncontextmenu="return false;">
-                ASSOCIAZIONE PAMOYA - Insieme per crescere
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
+            <?php include 'common\header.php';?>
+
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-            <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav side-nav">
-                    <li><a href="index.html" title="">Homepage</a></li>
-                    <li><a href="statuto_onlus.html" title="">Statuto</a></li>
-                    <li><a href="donazioni.html" title="">Per donazioni</a></li>
-                    <li><a href="ospedale_ikelu.html" title="">Ospedale di Ikelu</a></li>
-                    <li><a href="javascript:;" data-toggle="collapse" data-target="#home1">Step progettuali<i class="fa fa-fw fa-caret-down"></i></a>
-                        <ul id="home1" class="collapse">         
-                            <li><a href="progetto.html" title="">Il Progetto</a></li>
-                            <li><a href="inizio_attivita.html" title="">Inizio attività dell'Ospedale</a></li>
-                            <li><a href="relazioni.html" title="">Relazioni Medici</a></li>
-                            <li><a href="ipotesi_sviluppo.html" title="">Ipotesi di sviluppo</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="vill_tumaini.html" title="">Villaggio Tumaini</a></li>
-                    <li><a href="wangingombe_ilembula.html" title="">Wangingombe e Ilembula</a></li>
-                    <li><a href="vill_grandi.html" title="">Villaggio Grandi</a></li>
-                    <li><a href="s_mamre.html" title="">Scuola Mamre</a></li>
-                    <li><a href="javascript:;" data-toggle="collapse" data-target="#home2">Attività Fausta<i class="fa fa-fw fa-caret-down"></i></a>
-                        <ul id="home2" class="collapse"> 
-                            <li><a href="distr_viveri.html" title="">Distribuzione viveri</a></li>
-                            <li><a href="gest_scuole.html" title="">Gestione scuole</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="javascript:;" data-toggle="collapse" data-target="#home3">Lettere dall'Africa<i class="fa fa-fw fa-caret-down"></i></a>
-                        <ul id="home3" class="collapse"> 
-                            <li><a href="tarcisio.html" title="">Don Tarcisio</a></li>
-                            <li><a href="fausta.html" title="">Maestra Fausta</a></li>
-                            <li><a href="archivio_tarcisio.html" title="">Archivio Don Tarcisio</a></li>
-                            <li><a href="archivio_fausta.html" title="">Archivio Maestra Fausta</a></li>
-                        </ul>
-                    <li><a href="immagini_vita_quotidiana.html" title="">Immagini di vita quotidiana</a></li>
-                    <li><a href="volontari.html" title="">Spazio Volontari</a></li>
-                    <li><a href="stampa.html" title="">Rassegna stampa</a></li>
-                    <li><a href="foto_escursioni.html" title="">Escursioni</a></li>
-                </ul>
-            </div>
+            <?php include 'common\menu.php';?>
             <!-- /.navbar-collapse -->
         </nav>
 
@@ -91,7 +24,7 @@
             <div class="container-fluid">
                 <ul class="nav nav-tabs">
                     <li role="presentation" class="active"><a href="#">Distribuzione dei viveri</a></li>
-                    <li><a href="gest_scuole.html" title="">Gestione delle scuole</a></li>
+                    <li><a href="gest_scuole.php" title="">Gestione delle scuole</a></li>
                 </ul>
                 <!-- Page Heading -->
                 <div class="row">
@@ -197,12 +130,7 @@
 
         </div>
         <!-- /#page-wrapper -->
-        <footer>
-            <h4>Associazione PAMOYA - ONLUS<br>
-                Piazza Roma, 7 25040 Malonno (Bs)<br>
-                Tel: 327 1589483 - E-mail: infopamoya@libero.it<br>
-                Cod.Fisc: 90013120176</h4>
-        </footer>
+        <?php include 'common\footer.php';?>
     </div>
     <!-- /#wrapper -->
 
