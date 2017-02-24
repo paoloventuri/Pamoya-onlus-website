@@ -38,6 +38,7 @@
                         </h4>
 
                         <p>
+                            Il Centro Renato Grandi di Ilembula accoglie 89 bambini dagli 0 ai 14 anni; più 7 ragazzi delle scuole secondarie/professionali (che quindi restano a scuola per la maggior parte dell'anno).
                             <br>
                             <img class="center" src="img/grandi/grandi_13.jpg" oncontextmenu="return false;">
                         </p>

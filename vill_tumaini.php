@@ -39,7 +39,7 @@
 
                         <p>
                             Il &quot;Villaggio Tumaini&quot; ha iniziato la sua attività nel 2002. Il nome della prima bambina ospitata era Tumaini, che nella lingua locale significa &quot;speranza&quot;.<br>
-                            Attualmente accoglie 99 ospiti: bambini e ragazzi da 0 a 18 anni; la maggior parte orfani di genitori, morti a causa dell'AIDS, alcuni anche sieropositivi… Ci sono anche dei neonati.<br>
+                            Attualmente accoglie 56 bambini dagli 0 ai 14 anni, più 22 tra scuola primaria privata (5) e scuole secondarie/professionali. La maggior parte degli ospiti sono orfani di genitori, morti a causa dell'AIDS, alcuni anche sieropositivi… Ci sono anche dei neonati.<br>
                             Il villaggio è formato da 9 case-famiglia; ciascuna di esse ospita non più di 9 o 10 bambini di età diversa. Sono assistiti da 2 o 3 &quot;mamme-ragazze&quot; che passano l'intera giornata con i bambini.<br>
                             Il personale è composto da 20/22 &quot;mamme&quot;, 5 operai e 5 suore.<br>
                             Le case sono gestite in autonomia e sono autosufficienti. La verdura quotidiana è garantita dal proprio orto. La sufficienza alimentare della comunità è assicurata, invece, dalla coltivazione di un discreto appezzamento di terreno agricolo. Tutti gli ospiti, che sono in grado, coltivano l'orto, lavorano il campo comune e accudiscono gli animali domestici.<br>
