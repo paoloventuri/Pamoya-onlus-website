@@ -28,6 +28,14 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
+                        <h1 class="page-header">Inaugurazione chiesa di Ilembula</h1>
+                        <p>
+                            La chiesa di Ilembula è stata inaugurata il 30/12/2016 alla presenza del vescovo di Njonve, rev. Alfred Maluma, e delle autorità della zona.<br>
+                            All'inaugurazione erano presenti anche alcuni italiani che in questi anni hanno sostenuto don Tarcisio nella costruzione della chiesa. In particolare, sono intervenute alcune persone in rappresentanza del gruppo Alpini di Giussano, che più di tutti si è fatto carico della realizzazione dell'opera.<br>
+                            La risposta dei fedeli è stata più che positiva e la chiesa era gremita. Durante la messa ha anche iniziato a piovere, segno visto di buon auspicio dai presenti, visto che a Ilembula non pioveva da quasi un mese, nonostante fossimo nel pieno della stagione delle piogge e i campi appena coltivati iniziavano a risentire della siccità.<br>
+                            Durante la celebrazione della messa, il vescovo ha anche celebrato le cresime per i bambini della parrocchia.
+                        </p>
+                        <?php slider('img/wangingombe_ilembula/chiesa_ilembula', 1);?>
                         <h1 class="page-header">Centro per disabili a Wangingombe</h1>
                         <p>
                             Don Tarcisio ha in programma la realizzazione di un Centro di rieducazione per bambini disabili della regione, soprattutto per quelli con problemi motori. Il centro si chiamerà Bethzatha e potrà ospitare una quarantina di bambini.<br>
@@ -38,7 +46,7 @@
                             Don Tarcisio già pensa di estendere il servizio e di crearne di nuovi.<br>
                             I progetti diventano realtà quando c'è personale necessario e quando la generosità degli offerenti non viene meno.
                         </p>
-                        <?php slider('img/wangingombe_ilembula/ilembula', 1);?>
+                        <?php slider('img/wangingombe_ilembula/ilembula', 2);?>
                         <h1 class="page-header">Villaggio e missione a Ilembula</h1>
                         <p>
                             Questo territorio grande circa 300 metri per 100 è stato comperato per costruire il villaggio degli orfani ed assimilati, sono previste 8 case più una per i servizi comunitari. Le case sono così strutturate: un ingresso nel cortile, sul lato destro ci sono la cucina, il ripostiglio ed i servizi, sull'altro lato invece sorgono 5 stanze che ospiteranno i bambini orfani con le &quot;mamme&quot; che si prenderanno cura di loro. Il fabbricato per i servizi comunitari sarà composto da un'infermeria e da un ufficio per l'accoglienza, un fabbricato quindi a servizio della comunità ed offrirà servizi pubblici al paese.<br>
@@ -48,7 +56,7 @@
                             I costi maggiori per la costruzione di questo villaggio sono il cemento, il ferro, la copertura del tetto con lamiere e legno, e piastrelle che verranno messe solo nella zona soggiorno, nelle altre stanze il pavimento sarà effettuato con cemento lisciato.<br>
                             Una volta terminati i lavori di costruzione verranno coltivate diverse piante di frutta, quali manghi, papaia e avocado.
                         </p>
-                        <?php slider('img/wangingombe_ilembula/wangingombe', 2);?>
+                        <?php slider('img/wangingombe_ilembula/wangingombe', 3);?>
                     </div>
                 </div>
                 <!-- /.row -->
