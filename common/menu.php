@@ -16,12 +16,8 @@
         <li><a href="wangingombe_ilembula.php" title="">Wangingombe e Ilembula</a></li>
         <li><a href="vill_grandi.php" title="">Villaggio Grandi</a></li>
         <li><a href="s_mamre.php" title="">Scuola Mamre</a></li>
-        <li><a href="javascript:;" data-toggle="collapse" data-target="#home2">Attività Fausta<i class="fa fa-fw fa-caret-down"></i></a>
-            <ul id="home2" class="collapse"> 
-                <li><a href="distr_viveri.php" title="">Distribuzione viveri</a></li>
-                <li><a href="gest_scuole.php" title="">Gestione scuole</a></li>
-            </ul>
-        </li>
+        <li><a href="distr_viveri.php" title="">Distribuzione viveri</a></li>
+        <li><a href="gest_scuole.php" title="">Scuole materne</a></li>
         <li><a href="javascript:;" data-toggle="collapse" data-target="#home3">Lettere dall'Africa<i class="fa fa-fw fa-caret-down"></i></a>
             <ul id="home3" class="collapse"> 
                 <li><a href="tarcisio.php" title="">Don Tarcisio</a></li>
