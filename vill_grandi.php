@@ -29,6 +29,14 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Villaggio Grandi</h1>
+                        
+                        <h4>
+                            Segui il <a href="https://www.facebook.com/Kituo-cha-Watoto-Yatima-Renato-Grandi-1508062396178899">Kituo cha Watoto Yatima Renato Grandi</a> su 
+                            <a href="https://www.facebook.com/Kituo-cha-Watoto-Yatima-Renato-Grandi-1508062396178899">
+                                <img src="img/loghi/facebook.png", oncontextmenu="return false;">
+                            </a>
+                        </h4>
+
                         <p>
                             <br>
                             <img class="center" src="img/grandi/grandi_13.jpg" oncontextmenu="return false;">

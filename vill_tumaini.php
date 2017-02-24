@@ -29,6 +29,14 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Il villaggio della speranza</h1>
+                        
+                        <h4>
+                            Segui il <a href="https://www.facebook.com/Centro-orfani-Tumaini-Kituo-cha-watoto-Tumaini-1899965703568591">Centro orfani Tumaini - Kituo cha watoto Tumaini</a> su 
+                            <a href="https://www.facebook.com/Centro-orfani-Tumaini-Kituo-cha-watoto-Tumaini-1899965703568591">
+                                <img src="img/loghi/facebook.png", oncontextmenu="return false;">
+                            </a>
+                        </h4>
+
                         <p>
                             Il &quot;Villaggio Tumaini&quot; ha iniziato la sua attività nel 2002. Il nome della prima bambina ospitata era Tumaini, che nella lingua locale significa &quot;speranza&quot;.<br>
                             Attualmente accoglie 99 ospiti: bambini e ragazzi da 0 a 18 anni; la maggior parte orfani di genitori, morti a causa dell'AIDS, alcuni anche sieropositivi… Ci sono anche dei neonati.<br>
