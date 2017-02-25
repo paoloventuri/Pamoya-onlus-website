@@ -30,6 +30,10 @@
                     <div class="col-lg-12">
                         <h1 class="page-header">Rassegna stampa</h1>
                         <p>
+                            <img class="center" src="img/stampa/stampa_09.jpg" oncontextmenu="return false;">
+                            <br>
+                            <img class="center" src="img/stampa/stampa_10.jpg" oncontextmenu="return false;">
+                            <br>
                             <img class="center" src="img/stampa/stampa_01.jpg" oncontextmenu="return false;">
                             <br>
                             <img class="center" src="img/stampa/stampa_02.jpg" oncontextmenu="return false;">
