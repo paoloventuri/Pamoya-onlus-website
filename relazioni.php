@@ -29,10 +29,53 @@
                     <li><a href="inizio_attivita.php">Inizio attività dell'Ospedale</a></li>
                     <li role="presentation" class="active"><a href="#">Relazioni Medici</a></li>
                     <li><a href="ipotesi_sviluppo.php">Ipotesi di sviluppo</a></li>
+                    <li><a href="bilancio_ikelu.php">Bilancio ospedale</a></li>
                 </ul>
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
+                        <h2>Ottobre 2016 - Dr. Yusta Nziku, Ufficiale Medico</h2>
+                        <p>
+                            L'ospedale St. Joseph di Ikelu fu aperto nel giugno del 2012 come un ospedale basato sulla fiducia e fu registrato con il numero 113211.<br>
+                            Noi ringraziamo tutti i sostenitori di Pamoya, Sicomoro e Rotary per avere aiutato l'ospedale a fornirci diverse apparecchiature e materiale che noi non avremmo potuto permetterci di comprare a causa del loro costo. L'ospedale St. Joseph di Ikelu da quando è stato aperto sta crescendo velocemente poichè molti pazienti vengono abitualmente anche da fuori della zona di Makambako e dalla regione di Njombe per cure mediche e consulenze mediche. L'amministrazione dell'ospedale rivolge speciali ringraziamenti al signor Emilio Bianchi, a Bele, al dottor Lucio Macchi, al dottor Guglielmo Meregalli, al dottor Giovanni Cecchini e a tutti i dottori e tecnici per tutti gli sforzi che sono stati portati avanti per provvedere al sostentamento e al miglioramento dell'ospedale. Infine vi ringraziamo per aver supportato l'ospedale con i pannelli solari, le apparecchiature per i raggi X, i letti, i tavoli, gli stumenti ospedalieri e i trasformatori elettrici. Sappiamo che tutte queste cose sono molto costose e appreziamo moltissimo il sostegno che ci state ancora dando. Che il Dio Onnipotente benedica tutti voi che venite dall'Italia, Amen.<br>
+                            <br>
+                            I servizi erogati dall'ospedale sono i seguenti:
+                            <lu>
+                                <li>ricoveri per pazienti;</li>
+                                <li>visite ambulatoriali;</li>
+                                <li>esami di laboratorio;</li>
+                                <li>esami con raggi X;</li>
+                                <li>esami con ultrasuoni;</li>
+                                <li>operazioni chirurgiche (maggiori e minori);</li>
+                                <li>parti;</li>
+                                <li>immunizzazione dei bambini sotto i 5 anni;</li>
+                                <li>cure di igiene orale;</li>
+                                <li>CTC e TB.</li>
+                            </lu>
+                            <br>
+                            Nell'anno 2016 l'ospedale ha completato diverse attività tra cui:
+                            <lu>
+                                <li>la costruzione di 3 case per il personale;</li>
+                                <li>il rinnovamento di un'abitazione per le famiglie dei pazienti ricoverati;</li>
+                                <li>la costruzione di alcune fosse settiche visto che quella precedente non era più sufficiente a causa dell'incremento dei pazienti;</li>
+                                <li>la costruzione di un lavatoio a disposizione del reparto maternità.</li>
+                            </lu>
+                            <br>
+                            <h4>ELETTRICITÀ</h4>
+                            L'ospedale utilizza sia l'energia elettrica della compagnia nazionale (Tanesco) che i pannelli solari. Prima dell'installazione dei pannelli solari c'era irregolarità nella fornitura elettrica e ciò a volte bloccava i servizi offerti ai pazienti. Il consiglio di amministrazione dell'ospedale e gli altri comitati ringraziano ancora i nostri amici italiani di Pamoya, Sicomoro Onlus e Rotary per il loro aiuto perchè grazie all'installazione dei pannelli solari dell'anno scorso siamo riusciti a risolvere il problema dell'elettricità nel nostro ospedale. L'ospedale adesso ha un rifornimento costante di energia elettrica per l'interno anno. Quest'anno inoltre ci avete aiutato con un sistema elettrico per sostituire quello standard di Tanesco. Possa Dio benedire tutti voi, grazie mille.<br>
+                            <br>
+                            <h4>TRASPORTO</h4>
+                            Da parte di tutto l'ospedale di St. Joseph vi ringraziamo per il vostro aiuto. L'ospedale non aveva un trasporto affidabile per portare i pazienti da un posto all'altro ma quando vi abbiamo presentato questo problema voi non avete esitato ad aiutarci e avete fatto uno sforzo per assicurarvi un'ambulanza. Con quest'auto sarà più semplice trasportare i pazienti di Ikelu ad un altro ospedale o dalla loro casa all'ospedale. Noi ringraziemo veramente tutti voi per averci aiutato a rendere l'ospedale più efficiente. Noi non abbiamo nient'altro da dire tranne che il Dio Onnipotente sia con voi in qualsiasi cosa facciate  e che sempre la Sua benedizione sia con voi in modo che abbiate una lunga vita.<br>
+                            <br>
+                            <h4>SFIDE DIFFICILI</h4>
+                            Anche se c'è un grande miglioramento, l'ospedale ha ancora alcune necessità:
+                            <lu>
+                                <li>L'ospedale manca di diversi medici specialisti per far si che alcuni casi difficili vengano affrontati. Questi casi possono essere curati da medici comuni come ginecologi, ortopedici, medici per diabetici, cardiologi, etc.</li>
+                                <li>Carenza di personale con differenti qualifiche: infermieri, assistenti medici, tecnici farmaceutici, anestesisti.</li>
+                                <li>I posti disponibili nel reparto meternità non permettono di soddisfare tutte le richieste. Questo reparto è pieno di pazienti in ogni momento.</li>
+                                <li>L'alto prezzo dei farmaci, delle attrezzature mediche e delle forniture mediche.</li>
+                            </lu>
+                        </p>
                         <h2>Ottobre 2013 - Dott. Lucio Macchi</h2>
                         <p>
                             La sala gessi così come era stata progettata è stata avviata. Nell'ospedale c'è quindi una stanza in prossimità dell'OPD e dello studio dentistico, attrezzata con  letto, tavolo e armadio, tavolino per piccola chirurgia della mano, piccola lampada operatoria, con tutto il necessario per confezionare apparecchi gessati e posizionare trazioni transcheletriche , dotata di materiale sterile (teli, garze e ferri chirurgici) per effettuare piccoli interventi di chirurgia ambulatoriale. La formazione del personale in tal senso ha coinvolto suor Justa e Daudi, giovane infermiere red cross. La suora, che attualmente è in grado di confezionare in completa autonomia tecche gessate di ottima qualità, ha inoltre confezionato diversi apparecchi gessati chiusi raggiungendo una pratica direi più che buona considerato il poco tempo a disposizione. Peccato non si sia potuto usufruire della radiologia che avrebbe consentito applicazione pratica di ciò che è stato insegnato. Ma comunque almeno ora tutto è pronto per il futuro. Altro importante obiettivo raggiunto è quello della sterilizzazione. Oltre alla stufa a secco già in uso (unico strumento in uso per sterilizzare per tutto l'ospedale fino ad ora), è stata attivata una autoclave modello pentola a pressione, che viene attivata mediante uso di fornello da campeggio. Le tre autoclavi inviate dall'Italia sono state provate piu' volte, ma pur funzionando nella parte elettrica, non hanno dimostrato di poter completare un ciclo di sterilizzazione, non riuscendo a raggiungere o la pressione o la temperatura corretta. A questo proposito mi sento di fare un'osservazione, sarebbe bene che chiunque invii materiale a qualsiasi titolo si faccia garante del buon funzionamento del medesimo, per evitare che i locali abbiano l'impressione che si depositino qui materiali vecchi e non funzionanti. Per quanto riguarda la mia attività ho seguito suor Justa nel giro del mattino, in seguito seguivo lei o il CO Dr Mligo nelle visite nell'OPD rendendomi disponibile per visite ortopediche che in realtà sono state abbastanza poche. Una notte è giunto un paziente con lussazione posteriore instabile dell'anca e ampia ferita di un piede da schiacciamento. La mancanza della radiologia e l'instabilità della lussazione (verosimile frattura di acetabolo) hanno costretto al trasferimento del medesimo, dopo cura della ferita e riduzione della lussazione. Nel complesso per me l'esperienza è stata molto positiva, ho incontrato e collaborato con persone che mi sembra abbiano molta voglia di crescere, mi ha un poco colpito la relativa scarsità di pazienti, l'impressione che ho avuto per ora è di una struttura che sta lentamente e faticosamente cercando di passare da health center a ospedale. Per ora il grosso limite credo sia la mancanza di una radiologia. Da notare poi l'ottima resa della settimana trascorsa con Giovanni, persona di grande esperienza clinica e gestionale, che non ha mancato di svolgere un'attività didattica e clinica a 360° senza disdegnare gli aspetti più pratici dei servizi che concorrono ad una buona resa dell'attività clinica stessa (es. laboratorio, sterilizzazione).

@@ -10,6 +10,7 @@
                 <li><a href="inizio_attivita.php" title="">Inizio attività dell'Ospedale</a></li>
                 <li><a href="relazioni.php" title="">Relazioni Medici</a></li>
                 <li><a href="ipotesi_sviluppo.php" title="">Ipotesi di sviluppo</a></li>
+                <li><a href="bilancio_ikelu.php" title="">Bilancio ospedale</a></li>
             </ul>
         </li>
         <li><a href="vill_tumaini.php" title="">Villaggio Tumaini</a></li>

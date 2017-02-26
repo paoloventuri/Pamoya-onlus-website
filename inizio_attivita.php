@@ -29,6 +29,7 @@
                     <li role="presentation" class="active"><a href="#">Inizio attività dell'Ospedale</a></li>
                     <li><a href="relazioni.php">Relazioni Medici</a></li>
                     <li><a href="ipotesi_sviluppo.php">Ipotesi di sviluppo</a></li>
+                    <li><a href="bilancio_ikelu.php">Bilancio ospedale</a></li>
                 </ul>
                 <!-- Page Heading -->
                 <div class="row">

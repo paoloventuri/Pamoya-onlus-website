@@ -4,7 +4,7 @@
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
     
-    <title>Relazioni Medici - Associazione Pamoya Onlus</title>
+    <title>Ipotesi di sviluppo - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
 </head>
@@ -29,6 +29,7 @@
                     <li><a href="inizio_attivita.php">Inizio attività dell'Ospedale</a></li>
                     <li><a href="relazioni.php">Relazioni Medici</a></li>
                     <li role="presentation" class="active"><a href="#">Ipotesi di sviluppo</a></li>
+                    <li><a href="bilancio_ikelu.php">Bilancio ospedale</a></li>
                 </ul>
                 <!-- Page Heading -->
                 <div class="row">
