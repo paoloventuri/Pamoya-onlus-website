@@ -6,10 +6,10 @@
 
         $files = glob(DOCROOT.$dir.'/*.*');
 
-        for ($i=1; $i<count($files); $i++) {
+        for ($i=0; $i<count($files); $i++) {
             $image = str_replace(DOCROOT, '', $files[$i]);
 
-            if($i==1){
+            if($i==0){
                 echo '<div class="item active">';
             } else {
                 echo '<div class="item">';
