@@ -26,7 +26,7 @@
             <div class="container-fluid">
                 <ul class="nav nav-tabs">
                     <li role="presentation" class="active"><a href="#">Il Progetto</a></li>
-                    <li><a href="inizio_attivita.php" title="">Inizio attività dell'Ospedale</a></li>
+                    <li><a href="foto_ospedale.php" title="">Fotografie dell'ospedale</a></li>
                     <li><a href="relazioni.php" title="">Relazioni Medici</a></li>
                     <li><a href="ipotesi_sviluppo.php" title="">Ipotesi di sviluppo</a></li>
                     <li><a href="bilancio_ikelu.php">Bilancio ospedale</a></li>
@@ -35,6 +35,18 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <p>
+                            <br>
+                            <div id="centr">
+                                <h3>PROGETTO IN COLLABORAZIONE CON:</h3>
+                                <img src="img/ikelu/ikelu_02.jpg" oncontextmenu="return false;">
+                                <a href="http://www.sicomoronlus.org">Sicomoro ONLUS</a>
+                                <img src="img/ikelu/ikelu_03.jpg" oncontextmenu="return false;">
+                                <a href="http://www.rotary2050.org">Rotary - Distretto 2050</a>
+                            </div>
+                            <video class="center" width="450" height="320" controls>
+                            <source src="img/video/pamoya-video1.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                            </video>
                             <br>
                             Nel villaggio di Ikelu, tra le cittadine di Njombe e Makambako, è sorto un ospedale che copre un'area di circa 150-200 mila abitanti. I lavori di costruzione iniziati nel settembre 2004 sono finalmente al termine. I reparti di maternità, ostetricia e odontoiatria sono quelli in fase più avanzata ai quali seguiranno quelli di chirurgia, pediatria e cura per l'AIDS.<br>
                             Le attività che impegneranno gli attori coinvolti nel progetto sono:<br>
@@ -50,6 +62,10 @@
                             Le condizioni della popolazione sono di povertà e in alcuni casi ancora si rivolgono allo stregone.<br>
                             L'area di utilizzo dell'ospedale è di 150-200 mila abitanti. L'ospedale &quot;vero&quot; più vicino è a 150 km (ospedale della Consolata) e nei periodi delle piogge è molto difficoltoso e a volte impossibile da raggiungere.<br>
                             La struttura ospedaliera del progetto prevede letti di maternità, chirurgia, pediatria, medicina, vari ambulatori ed un pronto soccorso accettazione, un settore specifico per pazienti affetti da HIV-AIDS, ambulatorio odontoiatrico, servizio di laboratorio, farmacia, radiologia, mensa, ecc.<br>
+                            L'organizzazione Pamoya supporta l'ospedale fornendo la strumentazione ospedaliera e supportando i tecnici nell'installazione e nell'utilizzo della stessa.
+                            Sicomoro ONLUS invece invia i medici che dedicano le loro vacanze per supportare i medici locali.
+                            L'ospedale sostenuto da Pamoya e Rotary Club ha inoltre acquistato un'auto che è stata adibita ad ambulanza.
+                            Sempre con l'aiuto di Pamoya è stato possibile l'acquisto dei pannelli solari e di un generatore di emergenza che si affiancano alla fornitura elettrica standard.<br>
                         </p>
                     </div>
                 </div>
