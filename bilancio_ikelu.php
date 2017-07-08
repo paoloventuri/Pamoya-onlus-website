@@ -3,7 +3,7 @@
 
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
-    
+
     <title>Bilancio ospedale - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
@@ -34,7 +34,7 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                    <h2>Bilancio del St Joseph Hospital di Ikelu - Gennaio/Settembre 2016</h2>
+                    <h2>Bilancio del St Joseph Hospital di Ikelu - Anno 2016</h2>
                     <br>
                         <table>
                             <tr>
@@ -49,153 +49,178 @@
                             </tr>
                             <tr>
                                 <td>Ambulatori</td>
-                                <td align="right">163.778.000</td>
+                                <td align="right">212.872.000</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Ricoveri</td>
-                                <td align="right">262.056.500</td>
+                                <td align="right">339.544.500</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Laboratori</td>
-                                <td align="right">153.285.000</td>
+                                <td align="right">197.328.000</td>
+                                <td align="right"></td>
+                            </tr>
+                            <tr>
+                                <td>Dentista</td>
+                                <td align="right">2.284.000</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Maternità</td>
-                                <td align="right">41.603.000</td>
+                                <td align="right">53.309.000</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Raggi X</td>
-                                <td align="right">22.471.500</td>
+                                <td align="right">29.416.500</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Operazioni</td>
-                                <td align="right">152.491.000</td>
+                                <td align="right">207.920.000</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Fondo nazionale di assicurazione sanitaria</td>
-                                <td align="right">75.637.921</td>
+                                <td align="right">121.727.371</td>
+                                <td align="right"></td>
+                            </tr>
+                            <tr>
+                                <td>Carta OPD e tasse di consultazione</td>
+                                <td align="right">40.258.000</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Contributo fondo Busket</td>
-                                <td align="right">14.760.544</td>
+                                <td align="right">26.278.174</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Contributo da Sicomoro e Pamoya</td>
-                                <td align="right">5.522.000</td>
+                                <td align="right">9.032.166</td>
+                                <td align="right"></td>
+                            </tr>
+                            <tr>
+                                <td>Contributo dal convento St. Getrude</td>
+                                <td align="right">15.230.000</td>
+                                <td align="right"></td>
+                            </tr>
+                            <tr>
+                                <td>Contributo da Tunajali</td>
+                                <td align="right">6.036.300</td>
                                 <td align="right"></td>
                             </tr>
                             <tr>
                                 <td>Stipendi</td>
                                 <td align="right"></td>
-                                <td align="right">250.346.130</td>
-                            </tr>
-                            <tr>
-                                <td>Indennità per lavoro straordinario</td>
-                                <td align="right"></td>
-                                <td align="right">26.000.000</td>
+                                <td align="right">345.427.130</td>
                             </tr>
                             <tr>
                                 <td>NSSF&LAPF</td>
                                 <td align="right"></td>
-                                <td align="right">13.818.500</td>
+                                <td align="right">22.689.500</td>
                             </tr>
                             <tr>
                                 <td>Acquisto farmaci</td>
                                 <td align="right"></td>
-                                <td align="right">274.526.395</td>
-                            </tr>
-                            <tr>
-                                <td>Acquisto reagenti</td>
-                                <td align="right"></td>
-                                <td align="right">51.470.800</td>
+                                <td align="right">357.527.145</td>
                             </tr>
                             <tr>
                                 <td>Trasporto farmaci</td>
                                 <td align="right"></td>
-                                <td align="right">1.679.500</td>
+                                <td align="right">1.993.500</td>
                             </tr>
                             <tr>
-                                <td>Attrezzature mediche e forniture</td>
+                                <td>Acquisto reagenti</td>
                                 <td align="right"></td>
-                                <td align="right">31.962.300</td>
+                                <td align="right">77.914.800</td>
                             </tr>
                             <tr>
-                                <td>Spese per staff</td>
+                                <td>Acquisto cancellaria</td>
                                 <td align="right"></td>
-                                <td align="right">58.650.000</td>
+                                <td align="right">17.890.300</td>
                             </tr>
                             <tr>
-                                <td>Stampe</td>
+                                <td>Pulizie</td>
                                 <td align="right"></td>
-                                <td align="right">6.428.300</td>
-                            </tr>
-                            <tr>
-                                <td>Materiali per pulizie e lavanderia</td>
-                                <td align="right"></td>
-                                <td align="right">2.711.500</td>
+                                <td align="right">4.754.500</td>
                             </tr>
                             <tr>
                                 <td>Bollette elettriche</td>
                                 <td align="right"></td>
-                                <td align="right">1.848.500</td>
+                                <td align="right">2.383.000</td>
                             </tr>
                             <tr>
                                 <td>Bollette acqua</td>
                                 <td align="right"></td>
-                                <td align="right">2.941.500</td>
+                                <td align="right">3.590.500</td>
                             </tr>
                             <tr>
                                 <td>Manutenzione e rinnovi</td>
                                 <td align="right"></td>
-                                <td align="right">19.320.500</td>
+                                <td align="right">26.959.900</td>
                             </tr>
                             <tr>
-                                <td>Diesel per generatori</td>
+                                <td>Benzina per generatori</td>
                                 <td align="right"></td>
-                                <td align="right">6.922.400</td>
+                                <td align="right">8.122.400</td>
+                            </tr>
+                            <tr>
+                                <td>Benzina per trasporti</td>
+                                <td align="right"></td>
+                                <td align="right">6.123.298</td>
                             </tr>
                             <tr>
                                 <td>Pasti per dottori e visitatori</td>
                                 <td align="right"></td>
-                                <td align="right">5.825.900</td>
+                                <td align="right">8.017.000</td>
                             </tr>
                             <tr>
                                 <td>Tè per lavoratori</td>
                                 <td align="right"></td>
-                                <td align="right">6.298.100</td>
+                                <td align="right">8.468.300</td>
+                            </tr>
+                            <tr>
+                                <td>Attrezzature mediche e forniture</td>
+                                <td align="right"></td>
+                                <td align="right">34.823.300</td>
                             </tr>
                             <tr>
                                 <td>Costi per trasporti</td>
                                 <td align="right"></td>
-                                <td align="right">3.071.000</td>
+                                <td align="right">5.073.900</td>
                             </tr>
                             <tr>
                                 <td>Comunicazioni e internet</td>
                                 <td align="right"></td>
-                                <td align="right">745.000</td>
+                                <td align="right">863.000</td>
+                            </tr>
+                            <tr>
+                                <td>Indennità</td>
+                                <td align="right"></td>
+                                <td align="right">31.000.000</td>
                             </tr>
                             <tr>
                                 <td>Sepolture</td>
                                 <td align="right"></td>
-                                <td align="right">2.570.000</td>
+                                <td align="right">5.191.595</td>
                             </tr>
                             <tr>
-                                <td>Spese bacarie</td>
+                                <td>Spese per staff</td>
                                 <td align="right"></td>
-                                <td align="right">1.001.018</td>
+                                <td align="right">85.156.675</td>
+                            </tr>
+                            <tr>
+                                <td>Spese bancarie</td>
+                                <td align="right"></td>
+                                <td align="right">1.689.609</td>
                             </tr>
                             <tr>
                                 <td>Tasse per ospiti</td>
                                 <td align="right"></td>
-                                <td align="right">1.660.500</td>
+                                <td align="right">1.790.500</td>
                             </tr>
                             <tr>
                                 <td>Tasse per studenti</td>
@@ -205,31 +230,31 @@
                             <tr>
                                 <td>Altre cerimonie</td>
                                 <td align="right"></td>
-                                <td align="right">3.137.500</td>
+                                <td align="right">7.109.500</td>
+                            </tr>
+                            <tr>
+                                <td>Tunajali</td>
+                                <td align="right"></td>
+                                <td align="right">4.798.100</td>
                             </tr>
                             <tr>
                                 <td>Alloggiamenti</td>
                                 <td align="right"></td>
-                                <td align="right">860.000</td>
+                                <td align="right">920.000</td>
                             </tr>
                             <tr>
                                 <td>Supporto medicinali per pazienti poveri</td>
                                 <td align="right"></td>
-                                <td align="right">2.314.500</td>
+                                <td align="right">5.705.000</td>
                             </tr>
                             <tr>
                                 <td>Supporto medicinali per lavoratori dell'ospedale</td>
                                 <td align="right"></td>
-                                <td align="right">5.741.600</td>
+                                <td align="right">10.488.263</td>
                             </tr>
                             <tr>
                                 <td><h4>Bilancio</h4></td>
                                 <td align="right"><h4>225.010.325</h4></td>
-                                <td align="right"></td>
-                            </tr>
-                            <tr>
-                                <td><h4>Bilancio al netto di spese non ancora estinte e deduzioni</h4></td>
-                                <td align="right"><h4>201.010.625</h4></td>
                                 <td align="right"></td>
                             </tr>
                         </table>
@@ -245,7 +270,7 @@
             <!-- /.container-fluid -->
         </div>
         <!-- /#page-wrapper -->
-        <?php include DOCROOT.'common/footer.php';?> 
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#wrapper -->
 
