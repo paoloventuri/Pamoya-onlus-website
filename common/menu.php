@@ -3,11 +3,10 @@
         <li><a href="index.php" title="">Homepage</a></li>
         <li><a href="statuto_onlus.php" title="">Statuto</a></li>
         <li><a href="donazioni.php" title="">Per donazioni</a></li>
-        <li><a href="ospedale_ikelu.php" title="">Ospedale di Ikelu</a></li>
-        <li><a href="javascript:;" data-toggle="collapse" data-target="#home1">Step progettuali<i class="fa fa-fw fa-caret-down"></i></a>
+        <li><a href="javascript:;" data-toggle="collapse" data-target="#home1">Ospedale di Ikelu<i class="fa fa-fw fa-caret-down"></i></a>
             <ul id="home1" class="collapse">         
                 <li><a href="progetto.php" title="">Il Progetto</a></li>
-                <li><a href="inizio_attivita.php" title="">Inizio attività dell'Ospedale</a></li>
+                <li><a href="foto_ospedale.php" title="">Fotografie dell'ospedale</a></li>
                 <li><a href="relazioni.php" title="">Relazioni Medici</a></li>
                 <li><a href="ipotesi_sviluppo.php" title="">Ipotesi di sviluppo</a></li>
                 <li><a href="bilancio_ikelu.php" title="">Bilancio ospedale</a></li>
