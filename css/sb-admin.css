@@ -23,7 +23,8 @@ table {
     border: 2px solid black;
 }
 
-td, tr {
+td,
+tr {
     border: 1px solid white;
     padding: 8px;
 }
@@ -36,7 +37,7 @@ td, tr {
     text-align: center;
 }
 
-.nav-tabs{
+.nav-tabs {
     padding-top: 30px;
     font-size: 1.6vw;
 }
@@ -54,7 +55,7 @@ td, tr {
     width: 100%;
 }
 
-.navbar-header button{
+.navbar-header button {
     padding: 5px;
 }
 
@@ -66,14 +67,16 @@ td, tr {
     background-color: #dfe3ee;
 }
 
-.navbar-nav>li>a , .navbar-nav>li>ul>li>a{
+.navbar-nav>li>a,
+.navbar-nav>li>ul>li>a {
     color: black !important;
     font-weight: bold;
 }
 
 .navbar-toggle:hover {
-    background-color: #3b5998 !important; 
+    background-color: #3b5998 !important;
 }
+
 .huge {
     font-size: 50px;
     line-height: normal;
@@ -96,6 +99,7 @@ td, tr {
     background-color: white;
 }
 
+
 /* Side Navigation */
 
 .side-nav>li>a {
@@ -106,11 +110,11 @@ td, tr {
 }
 
 .side-nav>li>ul>li>a:hover {
-    background-color: #3b5998 !important; 
+    background-color: #3b5998 !important;
 }
 
-.item{
-   height: 240px;
+.item {
+    height: 240px;
 }
 
 .item img {
@@ -118,28 +122,22 @@ td, tr {
 }
 
 @media(min-width:768px) {
-
     body {
         margin-top: 50px;
     }
-
     #wrapper {
         padding-left: 250px;
     }
-
     #page-wrapper {
         padding: 20px;
     }
-
     #logo {
         width: auto;
     }
-    
-    .nav-tabs{
-        padding-top: 10px;   
+    .nav-tabs {
+        padding-top: 10px;
         font-size: 1.3vw;
     }
-
     .navbar-header {
         color: white;
         text-align: center;
@@ -148,7 +146,6 @@ td, tr {
         background-color: #3b5998;
         height: 100px;
     }
-
     .side-nav {
         position: fixed;
         top: 101px;
@@ -163,38 +160,31 @@ td, tr {
         overflow-x: hidden;
         padding-bottom: 10px;
     }
-
-    .item{
-       height: 480px;
+    .item {
+        height: 480px;
     }
-
     .item img {
         height: 480px !important;
     }
-
     .side-nav>li>a {
         width: 250px;
         color: black !important;
         text-align: center;
-        font-weight: bold; 
+        font-weight: bold;
     }
-
     .side-nav>li>ul {
         list-style: none;
-
     }
-
     .side-nav>li>ul>li>a {
         display: block;
         margin-left: -50px;
-        background-color: #dfe3ee;
+        background-color: white;
         color: #222;
         font-weight: bold;
         text-decoration: none;
         text-align: center;
         padding: 5px 10px 5px 5px;
     }
-
     .side-nav li a:hover,
     .side-nav li a:focus {
         outline: none;
