@@ -3,7 +3,7 @@
 
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
-    
+
     <title>Ipotesi di sviluppo - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
@@ -30,6 +30,7 @@
                     <li><a href="relazioni.php">Relazioni Medici</a></li>
                     <li role="presentation" class="active"><a href="#">Ipotesi di sviluppo</a></li>
                     <li><a href="bilancio_ikelu.php">Bilancio ospedale</a></li>
+                    <li><a href="numeri_ikelu.php">I numeri dell'ospedale</a></li>
                 </ul>
                 <!-- Page Heading -->
                 <div class="row">
@@ -134,7 +135,7 @@
                                     </lu>
                                     <br>
                                     Specifici:
-                                    <lu> 
+                                    <lu>
                                         <li>Gestione del materiale proveniente dall’Italia</li>
                                         <li>Ottenimento autorizzazioni</li>
                                         <li>Organizzazione del personale di sala</li>
@@ -161,7 +162,7 @@
                                         <li>Elenco delle reperibilità</li>
                                         <li>Autorizzazione scritta del TMO</li>
                                         <li>Mail</li>
-                                        <li>Verbali di riunioni</li>                               
+                                        <li>Verbali di riunioni</li>
                                     </lu>
                                 </td>
                                 <td>
@@ -409,7 +410,7 @@
                                     Generico:
                                     <lu>
                                         <li>Apportare un sistema elettrico continuativo e sicuro per l’ospedale e le sue apparecchiature</li>
-                                    </lu> 
+                                    </lu>
                                     <br>
                                     Specifici:
                                     <lu>
@@ -499,7 +500,7 @@
             <!-- /.container-fluid -->
         </div>
         <!-- /#page-wrapper -->
-        <?php include DOCROOT.'common/footer.php';?> 
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#wrapper -->
 

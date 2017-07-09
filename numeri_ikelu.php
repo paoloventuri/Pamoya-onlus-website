@@ -4,13 +4,13 @@
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
 
-    <title>Fotografie dell'ospedale - Associazione Pamoya Onlus</title>
+    <title>I numeri dell'ospedale - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
 </head>
 
 <body>
-    <div id="wrapper"> <meta name="viewport" content="width=device-width">
+<div id="wrapper"> <meta name="viewport" content="width=device-width">
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -26,29 +26,18 @@
             <div class="container-fluid">
                 <ul class="nav nav-tabs">
                     <li><a href="progetto.php">Il Progetto</a></li>
-                    <li role="presentation" class="active"><a href="#">Fotografie dell'Ospedale</a></li>
+                    <li><a href="foto_ospedale.php">Fotografie dell'ospedale</a></li>
                     <li><a href="relazioni.php">Relazioni Medici</a></li>
                     <li><a href="ipotesi_sviluppo.php">Ipotesi di sviluppo</a></li>
-                    <li><a href="bilancio_ikelu.php">Bilancio ospedale</a></li>
-                    <li><a href="numeri_ikelu.php">I numeri dell'ospedale</a></li>
+                    <li><a href="bilancio_ikelu.php">Bilancio dell'ospedale</a></li>
+                    <li role="presentation" class="active"><a href="#">I numeri dell'ospedale</a></li>
                 </ul>
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>
-                            <br>
-                            <h3 id="centr">OSPEDALE DI IKELU AL LAVORO</h3>
-                            <?php slider('img/ikelu/ikelu_04', 1);?>
-                            <br>
-                            <h3 id="centr">7 OTTOBRE 2011: INAUGURAZIONE OSPEDALE DI IKELU</h3>
-                            <?php slider('img/ikelu/ikelu_06', 2);?>
-                            <br>
-                            <h3 id="centr">LE VARIE FASI DELLA COSTRUZIONE</h3>
-                            <?php slider('img/ikelu/ikelu_07', 3);?>
-                            <br>
-                            <br>
-                        </p>
-                        <br>
+                    <h2>I numeri del St Joseph Hospital di Ikelu - Anno 2016</h2>
+
+
                     </div>
                 </div>
                 <!-- /.row -->

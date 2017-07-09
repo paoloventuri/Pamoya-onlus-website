@@ -4,12 +4,13 @@
         <li><a href="statuto_onlus.php" title="">Statuto</a></li>
         <li><a href="donazioni.php" title="">Per donazioni</a></li>
         <li><a href="javascript:;" data-toggle="collapse" data-target="#home1">Ospedale di Ikelu<i class="fa fa-fw fa-caret-down"></i></a>
-            <ul id="home1" class="collapse">         
+            <ul id="home1" class="collapse">
                 <li><a href="progetto.php" title="">Il Progetto</a></li>
                 <li><a href="foto_ospedale.php" title="">Fotografie dell'ospedale</a></li>
                 <li><a href="relazioni.php" title="">Relazioni Medici</a></li>
                 <li><a href="ipotesi_sviluppo.php" title="">Ipotesi di sviluppo</a></li>
-                <li><a href="bilancio_ikelu.php" title="">Bilancio ospedale</a></li>
+                <li><a href="bilancio_ikelu.php" title="">Bilancio dell'ospedale</a></li>
+                <li><a href="numeri_ikelu.php" title="">I numeri dell'ospedale</a></li>
             </ul>
         </li>
         <li><a href="vill_tumaini.php" title="">Villaggio Tumaini</a></li>
@@ -19,7 +20,7 @@
         <li><a href="distr_viveri.php" title="">Distribuzione viveri</a></li>
         <li><a href="gest_scuole.php" title="">Scuole materne</a></li>
         <li><a href="javascript:;" data-toggle="collapse" data-target="#home3">Lettere dall'Africa<i class="fa fa-fw fa-caret-down"></i></a>
-            <ul id="home3" class="collapse"> 
+            <ul id="home3" class="collapse">
                 <li><a href="tarcisio.php" title="">Don Tarcisio</a></li>
                 <li><a href="fausta.php" title="">Maestra Fausta</a></li>
                 <li><a href="archivio_tarcisio.php" title="">Archivio Don Tarcisio</a></li>
