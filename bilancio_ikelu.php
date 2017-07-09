@@ -39,9 +39,9 @@
                     <br>
                         <table>
                             <tr>
-                                <td width="25%"><h2></h2></td>
-                                <td width="25%" align="right"><h2>Entrate</h2></td>
-                                <td width="25%" align="right"><h2>Uscite</h2></td>
+                                <td width="25%"><h3></h3></td>
+                                <td width="25%" align="right"><h3>Entrate</h3></td>
+                                <td width="25%" align="right"><h3>Uscite</h3></td>
                             </tr>
                             <tr>
                                 <td>Bilancio iniziale</td>
