@@ -3,6 +3,7 @@
         <li><a href="index.php" title="">Homepage</a></li>
         <li><a href="statuto_onlus.php" title="">Statuto</a></li>
         <li><a href="donazioni.php" title="">Per donazioni</a></li>
+        <li><a href="adotta_lettino.php" title="">Adotta un lettino</a></li>
         <li><a href="javascript:;" data-toggle="collapse" data-target="#home1">Ospedale di Ikelu<i class="fa fa-fw fa-caret-down"></i></a>
             <ul id="home1" class="collapse">
                 <li><a href="progetto.php" title="">Il Progetto</a></li>
