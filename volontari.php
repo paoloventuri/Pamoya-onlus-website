@@ -3,7 +3,7 @@
 
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
-    
+
     <title>Spazio volontari - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
@@ -29,6 +29,21 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Spazio volontari</h1>
+                        <h2>Riflessione di un viaggiatore</h2>
+                        <p>
+                            Non è facile affrontare parenti e amici, ti chiedono come è andata, cosa hai fatto...<br>
+                            Ecco una domanda che mi fa impazzire: &quot;cosa hai fatto?&quot;<br>
+                            Pretesa occidentale di &quot;fare&quot;, sempre.<br>
+                            Ho vissuto, ecco cosa ho fatto!<br>
+                            Ho amato, ho osservato, ho pianto, ho riso, ho abbracciato, ho mangiato, ho sognato, ho viaggiato, ho respirato, ho sorriso, ho ballato, ho dormito... HO VISSUTO.<br>
+                            E HO CONDIVISO AMORE.<br>
+                            Ho visto casette di paglia e fango distrutte e ricostruite.<br>
+                            Ho visto gente senza casa ridere e ballare.<br>
+                            Bambini che ti corrono dietro, ti spiano, ti abbracciano, ti amano, ti cercano.<br>
+                            Maiali che razzolano promiscuamente con cani, gatti, galline, bambini, tutti nella stessa melma, negli stessi rifiuti.<br>
+                            Ho visto le donne lavare vestiti e stoviglie nel fiume sporco.<br>
+                            Ho visto la vita, in tutte le sue sfumature.
+                        </p>
                         <h2>Francesco Lecchi</h2>
                         <h3>Natale 2013 in Tanzania</h3>
                         <p>
