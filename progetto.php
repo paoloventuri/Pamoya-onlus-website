@@ -44,8 +44,8 @@
                                 <img src="img/ikelu/ikelu_03.jpg" oncontextmenu="return false;">
                                 <a href="http://www.rotary2050.org">Rotary - Distretto 2050</a>
                             </div>
-                            <video class="center" width="450" height="320" controls>
-                            <source src="img/video/pamoya-video1.mp4" type="video/mp4">
+                            <iframe class="center" width="560" height="315" src="https://www.youtube-nocookie.com/embed/gKuL0_l0uBg?rel=0" frameborder="0" allowfullscreen></iframe><video class="center" width="450" height="320" controls>
+
                             Your browser does not support the video tag.
                             </video>
                             <br>
