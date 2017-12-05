@@ -3,7 +3,7 @@
 
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
-    
+
     <title>Villaggio Tumaini - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
@@ -29,14 +29,15 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Il villaggio della speranza</h1>
-                        
+
                         <h4>
-                            Segui il <a href="https://www.facebook.com/Centro-orfani-Tumaini-Kituo-cha-watoto-Tumaini-1899965703568591">Centro orfani Tumaini - Kituo cha watoto Tumaini</a> su 
+                            Segui il <a href="https://www.facebook.com/Centro-orfani-Tumaini-Kituo-cha-watoto-Tumaini-1899965703568591">Centro orfani Tumaini - Kituo cha watoto Tumaini</a> su
                             <a href="https://www.facebook.com/Centro-orfani-Tumaini-Kituo-cha-watoto-Tumaini-1899965703568591">
                                 <img src="img/loghi/facebook.png", oncontextmenu="return false;">
                             </a>
                         </h4>
-
+                        <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/qavgpYTi5dE?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                        <br>
                         <p>
                             Il &quot;Villaggio Tumaini&quot; ha iniziato la sua attività nel 2002. Il nome della prima bambina ospitata era Tumaini, che nella lingua locale significa &quot;speranza&quot;.<br>
                             Attualmente accoglie 56 bambini dagli 0 ai 14 anni, più 22 tra scuola primaria privata (5) e scuole secondarie/professionali. La maggior parte degli ospiti sono orfani di genitori, morti a causa dell'AIDS, alcuni anche sieropositivi… Ci sono anche dei neonati.<br>

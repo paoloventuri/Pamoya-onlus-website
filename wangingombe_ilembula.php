@@ -3,7 +3,7 @@
 
 <head>
     <?php define('DOCROOT', realpath(dirname(__FILE__)).'/'); ?>
-    
+
     <title>Wangingombe e Ilembula - Associazione Pamoya Onlus</title>
 
     <?php include DOCROOT.'common/head.php';?>
@@ -29,6 +29,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Inaugurazione chiesa di Ilembula</h1>
+                        <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/WhVriRvz7x4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                        <br>
                         <p>
                             La chiesa di Ilembula è stata inaugurata il 30/12/2016 alla presenza del vescovo di Njonve, rev. Alfred Maluma, e delle autorità della zona.<br>
                             All'inaugurazione erano presenti anche alcuni italiani che in questi anni hanno sostenuto don Tarcisio nella costruzione della chiesa. In particolare, sono intervenute alcune persone in rappresentanza del gruppo Alpini di Giussano, che più di tutti si è fatto carico della realizzazione dell'opera.<br>
@@ -37,6 +39,8 @@
                         </p>
                         <?php slider('img/wangingombe_ilembula/chiesa_ilembula', 1);?>
                         <h1 class="page-header">Centro per disabili a Wangingombe</h1>
+                        <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/z53B06WJMIw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                        <br>
                         <p>
                             Don Tarcisio ha in programma la realizzazione di un Centro di rieducazione per bambini disabili della regione, soprattutto per quelli con problemi motori. Il centro si chiamerà Bethzatha e potrà ospitare una quarantina di bambini.<br>
                             I bambini rimarranno nel centro solo durante gli interventi di riabilitazione, poi torneranno alle loro case. Il centro sarà comunque a disposizione per possibili ricoveri temporanei.<br>

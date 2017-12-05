@@ -44,10 +44,10 @@
                                 <img src="img/ikelu/ikelu_03.jpg" oncontextmenu="return false;">
                                 <a href="http://www.rotary2050.org">Rotary - Distretto 2050</a>
                             </div>
-                            <iframe class="center" width="560" height="315" src="https://www.youtube-nocookie.com/embed/gKuL0_l0uBg?rel=0" frameborder="0" allowfullscreen></iframe><video class="center" width="450" height="320" controls>
-
-                            Your browser does not support the video tag.
-                            </video>
+                            <br>
+                            <iframe class="center" width="560" height="315" src="https://www.youtube-nocookie.com/embed/gKuL0_l0uBg?rel=0" frameborder="0" allowfullscreen></iframe>
+                            <br>
+                            <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/oEDWCwJJ9Ek?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
                             <br>
                             Nel villaggio di Ikelu, tra le cittadine di Njombe e Makambako, è sorto un ospedale che copre un'area di circa 150-200 mila abitanti. I lavori di costruzione iniziati nel settembre 2004 sono finalmente al termine. I reparti di maternità, ostetricia e odontoiatria sono quelli in fase più avanzata ai quali seguiranno quelli di chirurgia, pediatria e cura per l'AIDS.<br>
                             Le attività che impegneranno gli attori coinvolti nel progetto sono:<br>
