@@ -35,6 +35,40 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
+                        <h2>Novembre 2017 - Dott. Lucio Macchi</h2>
+                        <p>
+                            <h4>DOTAZIONI PRESENTI:</h4> sono ancora presenti e funzionanti il personal computer con tutto il materiale didattico variamente sviluppato da chi è venuto Ikelu, il proiettore portatile con supporto, due stampanti di cui una scanner modello Epson XP 425 che necessita però delle cartucce che vanno procurate in Italia.
+                            L’altra stampante è un modello Hp laser perfettamente funzionante.
+                            Una terza stampante, sempre laser, un po’ più vecchia, è stata temporaneamente prestata ai ragazzi del villaggio orfani vicino per un progetto di cui parlerò in seguito.
+                            È stato creato un angolo nel salone dove sono state posizionate entrambe le stampanti ed è quindi possibile lavorarvi con il personal computer.
+                            <br>
+                            <h4>FORMAZIONE EFFETTUATA:</h4> sono stati effettuati incontri formativi sul trattamento delle fratture di polso, l’utilizzo del fissatore esterno nei vari tipi di fratture, sono stati inoltre proiettati alcuni video su patologie dell’area materno infantile.
+                            Un problema successo con un paziente ricoverato è stato l’occasione per fare una lezione sulla gestione dell’addome acuto, lezione che peraltro è stata tenuta dal Dottor Sanga.
+                            Questo modus operandi è apparso vincente, il personale ha gradito molto ed è stato molto partecipe all’iniziativa.
+                            Questa ha rappresentato un’occasione formativa per lo stesso dottor Sanga.
+                            <br>
+                            Dal punto di vista della chirurgia ortopedica, anche grazie al materiale acquistato, si è avuto un discreto progresso nel trattamento delle principali tipologie di fratture che si osservano a Ikelu.
+                            Ci sono ancora delle correzioni da fare, occorre lavorare in sala operatoria per preparare set dedicati, ma i progressi fatti lasciano ben sperare.
+                            Anche dal punto di vista del trattamento delle ustioni ho visto un buon progresso nella costanza e nella modalità di esecuzione delle medicazioni.
+                            Rimane un problema l’impossibilità di procedere a innesti di chirurgia plastica, fatto che renderebbe la degenza molto più breve e limiterebbe di molto la comparsa di retrazioni degli arti.
+                            Riguardo a questo problema è stata svolta un’attività formativa dedicata ed è stato predisposto l’acquisto di diversi Splint plastici che arriveranno con il prossimo container che avranno la duplice funzione di essere utilizzati sia come immobilizzazioni provvisoria per le fratture sia come splint per prevenire le retrazioni articolari del paziente ustionato.
+                            Per il prossimo anno è mia intenzione, dopo confronto con il centro ustioni di Milano per capire le modalità operative, procurare lo strumentario per l’esecuzione di innesti.
+                            <br>
+                            <h4>PROBLEMI APERTI:</h4>
+                            L'amplificatore dà delle immagini qualitativamente molto modeste ed è scarsamente utilizzabile per effettuare gli interventi di chirurgia ortopedica.
+                            Bisognerebbe pensare a una sua sostituzione con un apparecchio in buone condizioni proveniente dall’Italia.
+                            <br>
+                            I due giorni trascorsi in casa mi hanno dato il tempo di poter scannerizzare due libri di scuola di lingua Swahili e aritmetica Swahili, poi brillantemente impaginati da Valerio.
+                            Abbiamo una bambina che è ricoverata da più di tre mesi per il problema delle ustioni, ho pensato che sarebbe una buona cosa, quando le degenze si protraggono per molto tempo, garantire ai bambini un minimo di continuità anche dal punto di vista scolastico.
+                            Ne ho parlato con Maurizio, ho mandato una mail a lui e per conoscenza alle associazioni, da Roma è già arrivato parere positivo.
+                            Quindi i civilisti saranno impegnati con i bimbi della pediatria per 2-3 volte la settimana per un po’ di attività didattica.
+                            Questo il motivo per cui è stata data loro la stampante per poter stampare il materiale didattico necessario.
+                            <br>
+                            Ringrazio per l’attenzione, spero di non avere dimenticato nulla e di non aver urtato la sensibilità di nessuno con le mie osservazioni.
+                            <br>
+                            Un saluto a tutti. Lucio
+                        </p>
+
                         <h2>Ottobre 2016 - Dr. Yusta Nziku, Ufficiale Medico</h2>
                         <p>
                             L'ospedale St. Joseph di Ikelu fu aperto nel giugno del 2012 come un ospedale basato sulla fiducia e fu registrato con il numero 113211.<br>
