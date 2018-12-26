@@ -31,6 +31,33 @@
                   <h1 class="page-header">Chumba cha watoto njiti</h1>
                   <h2 class="page-header">Stanza adibita ai prematuri e/o ai neonati con peso alla nascita inferiore a 2500 g e ai neonati richiedenti assistenza specifica</h2>
                   <p>
+                     Cari donatori,<br>
+                     non ho parole per esprimere la gratitudine che provo per tutti gli aiuti che abbiamo ricevuto per questo progetto rivolto ai bimbi prematuri e non solo del nostro ospedale, il Saint Joseph Hospital di Ikelu, Tanzania.<br>
+                     Grazie ai vostri aiuti i lavori sono cominciati prima del previsto, e adesso sono a buon punto perciò entro Natale riusciremo ad ospitare le prime mamme con i loro bimbi!<br>
+                     Come era già stato scritto nel progetto, per i lavori abbiamo deciso di scegliere una stanza della maternità precedentemente destinata all’assistenza delle mamme dopo taglio cesareo (quest’ultima è stata semplicemente spostata). Abbiamo scelto questa stanza perché provvista di bagno (che non era più stato utilizzato) in modo tale da risparmiare su alcune spese. Sono bastati quindi pochi lavori per rimetterlo in sesto, e una bella pulizia! Adesso le mamme potranno utilizzare questo bagno senza doverlo condividere con tutto il reparto, diminuendo la possibilità di contrarre infezioni e malattie e di trasmetterle ai piccoli.<br>
+                     La porta di tale bagno e quella di entrata della stanza sono state cambiate con due porte di alluminio più resistenti. Anche le vecchie finestre in legno sono state cambiate. Alle pareti sono state affisse delle assi di legno alle quali sono poi stati attaccati dei pannelli per creare una camera d’aria per l’isolamento.
+                     I lavori della stanza sono quindi quasi finiti perché ora ci manca solo l’isolamento del soffitto.
+                     Qualche materiale ci arriverà con il container a Gennaio/Febbraio 2019 e qui ne approfitto per ringraziare di cuore chi ci ha donato alcune cose destinate alla stanza come una nuova stufa, lo sterilizzatore pediatrico, una bilancia digitale, un fasciatoio/armadio e ringrazio di cuore anche l’associazione Aurora di Genova per averci donato un’isola neonatale che arriverà con il prossimo container che partirà.
+                     Adesso non ci resta che procurarci gli strumenti per una buona assistenza e organizzare i registri e le cartelle.<br>
+                     Mi sembra giusto e doveroso riportare qualche cifra, perciò:
+                     Al momento abbiamo ricevuto: 4905 euro (Grazie!!!)<br>
+                     Per i lavori relativi alla stanza, compreso il bagno, fino ad ora sono stati spesi: 930 euro.
+                     Prossimi acquisti previsti:
+                     <ul>
+                        <li>Tavolo: circa 50 €</li>
+                        <li>Pulsossimetri: circa 300 €</li>
+                        <li>Incubatrice: circa 5.000 €</li>
+                     </ul>
+                     Non appena saremo riusciti ad acquistare queste cose, in base alle risorse e alle necessità dell'ospedale, valuteremo quando acquistare altri strumenti per l'assistenza al neonato.<br>
+                     <br>
+                     Grazie ancora di cuore a chi ha donato, a chi si è interessato, a chi sostiene e incoraggia il progetto in qualunque modo, a nome mio, dell’associazione Pamoya Onlus, a nome del Saint Joseph Hospital di Ikelu e ovviamente a nome di tutte quelle mamme e quei bimbi che cominciano ad usufruire di questo servizio… tutto questo grazie a voi!!!<br>
+                     Al prossimo aggiornamento, Buon Natale e anno nuovo!!!<br>
+                     <br>
+                     Marta Scarzella<br>
+                     <br>
+                     <img class="center" src="img/prematuri/prematuri_06.jpg" oncontextmenu="return false;">
+                     <img class="center" src="img/prematuri/prematuri_07.jpg" oncontextmenu="return false;">
+                     <br>
                      All’interno del reparto di maternità del Saint Joseph Hospital si trova una stanza adibita all’assistenza del neonato pretermine (nato prima della 37a settimana di gestazione) e/o con peso alla nascita inferiore a 2.5 kg, causa del 60-80 % delle morti perinatali secondo i dati della World Health Organization e di un’alta probabilità di morbilità perinatale.
                      Questa categoria di neonati, infatti, richiede un’assistenza specifica per quanto riguarda la nutrizione, il mantenimento della temperatura corporea, l’igiene generale e del cordone ombelicale e la diagnosi e il trattamento precoce di eventuali infezioni e complicazioni.
                      Inoltre nella stanza vengono ospitati neonati che hanno bisogno di assistenza specifica e continua come nel caso neonati portatori di patologie e malattie infettive, neonati con un ritardo di crescita o un distress fisico dovuto a varie cause come l’asfissia neonatale, neonati con un indice di Apgar inferiore a 7 dopo la nascita e ai neonati orfani in attesa di un care giver.
