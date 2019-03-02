@@ -30,6 +30,8 @@
                <div class="col-lg-12">
                   <h1 class="page-header">Chumba cha watoto njiti</h1>
                   <h2 class="page-header">Stanza adibita ai prematuri e/o ai neonati con peso alla nascita inferiore a 2500 g e ai neonati richiedenti assistenza specifica</h2>
+                  <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/y_Y65Uabr-c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                  <br>
                   <p>
                      Cari donatori,<br>
                      non ho parole per esprimere la gratitudine che provo per tutti gli aiuti che abbiamo ricevuto per questo progetto rivolto ai bimbi prematuri e non solo del nostro ospedale, il Saint Joseph Hospital di Ikelu, Tanzania.<br>
