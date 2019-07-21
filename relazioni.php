@@ -35,6 +35,30 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
+                        <h2>Luglio 2019 - Marta Scarzella</h2>
+                        <p>
+                        Qualche aggiornamento sulla situazione qui in ospedale e sulle nostre attività.<br>
+                        <br>
+                        Il progetto per i prematuri sta procedendo bene e la notizia che il nostro ospedale sta cercando di mettere su un servizio dedicato all'assistenza dei neonati sta facendo il giro… della regione!<br>
+                        Tanto che, soprattutto in questo periodo, i neonati che ci arrivano, non solo prematuri ma anche quelli con qualche problema, stanno moltiplicando.<br> 
+                        Ci arrivano non solo da casa ma anche dagli ospedali e dai centri di salute.<br> 
+                        Per questo motivo è stato indispensabile coprire tutti i turni, anche il pomeriggio e la notte, con del nuovo personale.<br>
+                        Sono stati quindi assunti nuovi infermieri che anche se sono alle prime armi in questo ambito, sono molto interessati e volenterosi.<br>
+                        Questo però mi prende molto tempo perché non solo cerco di coprire dei turni anche io, ma in più ho il compito di svolgere una sorta di formazione che a mia volta ho ricevuto e sto ricevendo da alcuni specialisti in materia, tra i quali i medici neonatologia del CUAMM che attualmente sono a Tosamaganga.<br>
+                        Nonostante ciò, il bisogno di avere degli specialisti o comunque qualcuno che sa molto bene la materia, cresce sempre di più ed è per questo che sto cercando di informarmi sulla possibilità di far venire qui qualche medico anche solo per un breve periodo per fare un po' di formazione.<br>
+                        <br>
+                        Intanto aspettiamo le incubatrici e i lettini termici che arriveranno con il container per poter eventualmente ampliare gli spazi e adibire l'altra stanza adiacente ai neonati che hanno bisogno di assistenza.<br>
+                        <br>
+                        In questi due ultimi mesi (in particolare l'ultimo), sono arrivate alcune mie amiche volontarie ostetriche.<br>
+                        Come sempre, sono indispensabili e grazie a loro siamo riuscite ad affrontare insieme situazioni in cui da sola… non ce l'avrei mai fatta.<br>
+                        <br>
+                        Intanto i lavori del CTC stanno andando avanti.<br>
+                        <br>
+                        Buona estate italiana… qui comincia il freddo kali, come dicono qui!<br>
+                        <br>
+                        Un abbraccio,<br>
+                        Marta Scarzella
+                        </p>
                         <h2>Novembre 2017 - Dott. Lucio Macchi</h2>
                         <p>
                             <h4>DOTAZIONI PRESENTI:</h4> sono ancora presenti e funzionanti il personal computer con tutto il materiale didattico variamente sviluppato da chi è venuto Ikelu, il proiettore portatile con supporto, due stampanti di cui una scanner modello Epson XP 425 che necessita però delle cartucce che vanno procurate in Italia.
