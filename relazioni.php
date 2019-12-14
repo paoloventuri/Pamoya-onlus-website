@@ -35,6 +35,33 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
+                        <h2>Ottobre 2019 - Dott. Lucio Macchi</h2>
+                        <p>
+                        Materiale consegnato:
+                        <lu>
+                            <li> N 1 sistema di VAC therapy (vacuum assisted closure) con più di 15 kit per medicazione.</li> 
+                            <li>Soluzione nitrato d'argento 50 g in 100 ml.</li>
+                        </lu>
+                        <br>
+                        Obiettivi raggiunti:
+                        <lu>
+                            <li>Addestramento del personale all'utilizzo del dermotomo ed espansore, utilizzati più volte per interventi di chirurgia plastica in pazienti ustionati o con esiti di ustioni retraenti. Anche quest'anno abbiamo effettuato trattamenti adeguati secondo i protocolli elaborati, in costante contatto e confronto con il centro ustioni di Niguarda di Milano.</li>
+                            <li>Addestramento del dr. Augustin all'uso e alla gestione del sistema VAC therapy. Effettuazione da parte sua di lezioni dimostrative al personale dell'ospedale sia sulla tematica degli innesti di chirurgia plastica che sull'uso della VAC. Un paziente con osteomielite per ora trattato.</li>
+                            <li>Trattamento di pazienti fratturati con fissatori esterni, apparecchi gessati, sintesi interne con placche e viti, una sola sintesi con infibulo endomidollare. In attesa di avere un amplificatore adeguatamente funzionante che permetterebbe l'uso di sistemi endomidollari più avanzati, meglio prediligere i fissatori esterni.</li>
+                            <li>Rimozione di chiodo infetto di femore e sua sostituzione con fissatore esterno previo debridment e lavaggio con dispositivo Zimmer per lavaggio pulsato. Lezioni informative al personale tenute dal dr Sanga sulla tematica dell'osteomielite e sull'uso del lavaggio pulsato.</li>
+                            <li>Individuazione di un piede torto congenito e primi step di trattamento (il paziente è stato peraltro riferito come di consueto per follow up alla struttura di Wanging'ombe).</li>
+                        </lu>
+                        <br>
+                        Da valutare per il futuro l'acquisto di strumentario chirurgico (infibuli, placche, chiodi elastici) ed eventualmente di un trapano polifunzionale (per punte, con frizione per fili k e con sega per osso).<br>
+                        <br>
+                        Complessivamente l'ospedale ha fatto grandi progressi. La continuità del lavoro in sala operatoria, il corretto trattamento dei pazienti ustionati comprendente anche in alcuni casi plastiche con innesti e la stabilità dell'esecuzione di esami radiografici, hanno convogliato un gran numero di pazienti che affluiscono all'ospedale per il trattamento di varie patologie, di medicina generale, ginecologiche e traumatiche. Segni di grande crescita dell'ospedale sono stati poi la creazione di un'unità per prematuri e le unità di sub intensiva maschile e femminile con presenza di infermiere h 24. Anche se ci vorrà del tempo per valutare l'impatto positivo di queste scelte (in realtà per i prematuri è già evidente una riduzione della mortalità), sono comunque segnale che siamo sulla strada giusta, cercando di differenziare i malati per tipologia e gravità. <br>
+                        <br>
+                        La radiologia funziona e fornisce immagini di qualità discreta . Purtroppo manca ancora un amplificatore di brillanza che possa fornire immagini valide. <br>
+                        <br>
+                        Per il prossimo anno oltre a definire eventuali acquisti di strumentario ortopedico e a mantenere il costante rifornimento del materiale di consumo per chirurgia plastica e per la VAC therapy, pensavo di organizzare con il supporto del comitato della Croce Rossa di Milano, di cui faccio parte, un allestimento di base per l'ambulanza che già abbiamo e dei corsi formativi sul soccorso tenuti dai volonrari di Milano. Acquisito l'assenso di Emilio, Marta, suor Neema e Justa in merito a tale progetto, restano però da esplorare le modalità pratiche, che credo comportino comunque quantomeno un contatto con la croce rossa nazionale della Tanzania. Vi terrò informati in merito. Ovvio che l'allestimento e l'attività formativa abbiano come logica conseguenza il rendere operativa l'ambulanza stessa, che potrebbe essere impiegata per uscite nel soccorso ovviamente solo in orario diurno, con parametri di richiesta ben definiti.<br>
+                        <br>
+                        Ringrazio infine Marta per la costante presenza, per le risposte sempre pronte e sollecite a qualsiasi richiesta, ma soprattutto per lo splendido lavoro che sta svolgendo con i prematuri, attività che rappresenta una delle eccellenze dell'ospedale di Ikelu.
+                        </p>
                         <h2>Luglio 2019 - Marta Scarzella</h2>
                         <p>
                         Qualche aggiornamento sulla situazione qui in ospedale e sulle nostre attività.<br>
