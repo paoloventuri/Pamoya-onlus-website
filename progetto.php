@@ -26,6 +26,7 @@
             <div class="container-fluid">
                 <ul class="nav nav-tabs">
                     <li role="presentation" class="active"><a href="#">Il Progetto</a></li>
+                    <li><a href="notizie.php" title="">Ultime notizie</a></li>
                     <li><a href="foto_ospedale.php" title="">Fotografie dell'ospedale</a></li>
                     <li><a href="relazioni.php" title="">Relazioni Medici</a></li>
                     <li><a href="ipotesi_sviluppo.php" title="">Ipotesi di sviluppo</a></li>

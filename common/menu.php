@@ -7,6 +7,7 @@
       <li><a href="javascript:;" data-toggle="collapse" data-target="#home1">Ospedale di Ikelu<i class="fa fa-fw fa-caret-down"></i></a>
          <ul id="home1" class="collapse">
             <li><a href="progetto.php" title="">Il Progetto</a></li>
+            <li><a href="notizie.php" title="">Ultime notizie</a></li>
             <li><a href="foto_ospedale.php" title="">Fotografie dell'ospedale</a></li>
             <li><a href="relazioni.php" title="">Relazioni Medici</a></li>
             <li><a href="ipotesi_sviluppo.php" title="">Ipotesi di sviluppo</a></li>
