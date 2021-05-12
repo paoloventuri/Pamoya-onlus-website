@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header">Con la tua mano diamo loro due mani</h1>
-                        <img class="center" src="img/donazioni/donazioni_01.jpg" oncontextmenu="return false;">
+                        <img class="center" width="560" src="img/donazioni/donazioni_03.jpg" oncontextmenu="return false;">
                         <p>
                         E sedutosi di fronte al tesoro, osservava come la folla gettava monete nel tesoro. E tanti ricchi ne gettavano molte. Ma venuta una povera vedova vi gettò due spiccioli, cioè un quattrino. Allora, chiamati a sè i discepoli, disse loro: &quot;In verità vi dico: questa vedova ha gettato nel tesoro più di tutti gli altri. Poichè tutti hanno dato del loro superfluo, essa invece, nella sua povertà, vi ha messo tutto quello che aveva, tutto quanto aveva per vivere&quot; - Marco 12,41.
                         <h4>Per le vostre offerte potete appoggiarvi ai seguenti conti correnti bancari indicando la causale della Vostra donazione:</h4>
@@ -67,6 +67,8 @@
                         Grazie<br>
                         Associazione Pamoya-Onlus &quot;Insieme per crescere&quot;
                         </p>
+
+                        <img class="center" src="img/donazioni/donazioni_01.jpg" oncontextmenu="return false;">
                     </div>
                 </div>
                 <!-- /.row -->
