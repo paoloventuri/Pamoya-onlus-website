@@ -1,0 +1,1 @@
+docker run -d -p 8080:80 -v /mnt/sdb1/workspace_git/Pamoya-onlus-website:/var/www/html/ php:apache
