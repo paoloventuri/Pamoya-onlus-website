@@ -35,6 +35,10 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
+                        <h2>I numeri del St Joseph Hospital di Ikelu - Anno 2021 - Gennaio - Aprile</h2>
+                        <img class="center" src="img/ikelu/dati/dati-ikelu_1.jpg" oncontextmenu="return false;">
+                        <img class="center" src="img/ikelu/dati/dati-ikelu_2.jpg" oncontextmenu="return false;">
+                        <br>
                         <h2>I numeri del St Joseph Hospital di Ikelu - Anno 2016</h2>
 
                         <h3>Visite ambulatoriali</h3>
