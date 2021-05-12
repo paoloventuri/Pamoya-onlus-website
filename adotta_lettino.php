@@ -28,9 +28,14 @@
                     <div class="col-lg-12">
                         <h1 class="page-header">Un lettino pediatrico</h1>
                         <p>
-                        Il progetto denominato &quot;Un lettino pediatrico&quot; è destinato ad aiutare i bambini ustionati e sottratti alle cure in ospedale per la mancanza di disponibilità economica.<br>
-                        Nei primi otto mesi dell'anno 2017 sono già stati curati con esito positivo 25 bambini di età inferiore ai 6 anni.<br>
-                        Il costo per un mese di degenza più gli alimenti della mamma che lo assiste ammonta a circa 100€.<br>
+                        Da poco più di due anni l’associazione Pamoya Onlus sta sostenendo grazie all’aiuto di donatori un progetto destinato ai bimbi che nascono prematuri al St. Jospeh Hospital di Ikelu in Tanzania. <br>
+                        Abbiamo cominciato con una stanza riscaldata per la marsupio terapia, in seguito ci sono state donate tre incubatrici e pian pianino la stanza si è attrezzata degli strumenti principali per l’assistenza di questi piccoli (pompe da infusione, fototerapia, concertatori di ossigeno…). <br>
+                        Oltre a ciò, il progetto si occupa di sostenere le spese relative al ricovero perché come sappiamo il decorso ospedaliero dei neonati prematuri è molto lungo e le famiglie non riescono ad affrontare questa spesa. <br>
+                        Così abbiamo deciso di aiutare le famiglie di questi piccoli guerrieri sostenendo le spese relative al ricovero. <br>
+                        Con le donazioni riusciamo a coprire le spese della terapia antibiotica, terapia per ridurre il rischio di apnea del prematuro, flebo, tutto il materiale utilizzato durante il ricovero e il posto letto eccetera. <br>
+                        Inoltre copriamo anche le spese dei follow up. A carico delle mamme rimane solo la spesa relativa alla cartella clinica e alcuni esami del sangue. In media, un ricovero viene coperto da circa 100 euro e un ricovero dura da minimo di 5 giorni ad alcuni mesi. <br>
+                        Nel 2020 abbiamo concluso l’anno con quasi 200 neonati prematuri! <br>
+                        Questa raccolta fondi è perciò destinata a loro affinché possiamo continuare ad aiutarli! Grazie di cuore a tutti quelli che ci aiutano anche con una piccola somma!<br>
                         <br>
                         Per partecipare a questo progetto basta versare un piccolo contributo a:<br>
                         <h4><center>Associazione Pamoya-Onlus<br>IBAN: IT98S0834054710000000200628<br>Causale: adotta un lettino</center></h4><br>
