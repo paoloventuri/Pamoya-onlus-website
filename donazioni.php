@@ -42,15 +42,15 @@
                         Filiale di Malonno (BS)<br>
                         ABI: 08340<br>
                         CAB: 54710<br>
-                        CIN: S<br>
-                        IBAN: IT98S0834054710000000200628<br>
+                        CIN: A<br>
+                        IBAN: IT87A0834054710000800200628<br>
                         <br>
-                        <u>BANCA DI VALLE CAMONICA</u><br>
+                        <u>INTESA SAN PAOLO</u><br>
                         Filiale di Cedegolo (BS)<br>
-                        ABI: 03244<br>
-                        CAB: 54310<br>
-                        CIN: M<br>
-                        IBAN: IT72M0324454310000000007300<br>
+                        ABI: 03069<br>
+                        CAB: 54313<br>
+                        CIN: V<br>
+                        IBAN: IT50V0306954313100000001841<br>
                         <br>
                         Si precisa che gli importi vengono versati a favore di organizzazione non lucrativa di attività sociale senza finalità commerciali, siamo disponibili al rilascio della relativa certificazione da detrarre in fase di dichiarazione dei redditi.<br>
                         <br>
@@ -77,7 +77,7 @@
             <!-- /.container-fluid -->
         </div>
         <!-- /#wrapper -->
-        <?php include DOCROOT.'common/footer.php';?>        
+        <?php include DOCROOT.'common/footer.php';?>
     </div>
     <!-- /#page-wrapper -->
 
