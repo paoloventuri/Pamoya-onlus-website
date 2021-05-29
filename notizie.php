@@ -37,6 +37,35 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <p>
+                        <br>
+                        <h3>PROGETTO NEONATOLOGIA</h3>
+                        <p>
+                            Giorno 17 Febbraio 2021 ore 10.55 del mattino, inizio scavi.<br>
+                            Così nasce la Neonatologia del St. Jospeh Hospital di Ikelu, la prima della regione di Njombe in Tanzania.<br>
+                            Da poco più di due anni abbiamo adibito una stanza della maternità alla cura del neonato prematuro rendendola calda grazie all’isolamento delle pareti, una stufa e il cambio delle finestre e delle porte (progetto: Chumba Cha Watoto Njiti).
+                            Le mamme all’interno della stanza eseguono la marsupio terapia e c’è almeno un infermiere che copre tutti i turni della giornata e il medico che fa il giro pazienti quasi ogni mattina.
+                            Con il tempo, grazie alle donazioni, siamo riusciti ad attrezzare la stanza con altri strumenti utili come le incubatrici, le pompe da infusione, concertatori di ossigeno, la lampada per la fototerapia ecc.
+                            Questo ha fatto in modo che molti neonati della regione venissero trasferiti nella nostra struttura. La stanza è diventata così insufficiente per accogliere tutti i neonati e soprattutto incapace di accogliere neonati non prematuri ma con altri problemi insorti alla nascita o nei primi 28 giorni di vita, mettendo a rischio la vita dei prematuri stessi che non avrebbero potuto condividere la stanza con altri neonati patologici.
+                            Perciò fino ad oggi questi ultimi sono stati ricoverati nel reparto di maternità causando incomprensioni riguardo la loro assistenza divisa tra gli infermieri della stanza prematuri e le ostetriche della maternità.<br>
+                            Così è nata l’esigenza di costruire un reparto apposta per garantire un’adeguata e continua assistenza a tutti i neonati.
+                            Inoltre dall’Agosto 2019 la Tanzania ha rilasciato le prime linee guida per la cura e l’assistenza del neonato e lo Stato richiede che ogni ospedale abbia una struttura adeguata a ciò.<br>
+                            La Neonatologia avrà una capienza di circa 15 posti letto e sarà così composta:
+                            <ol>
+                                <li>Nurse station con incubatrici e lettini a vista per i neonati a rischio che richiedono stretta e continua osservazione (5 posti);</li>
+                                <li>Corridoio emergenze;</li>
+                                <li>Stanza per il ricovero dei neonati con le loro mamme sotto osservazione (4 posti);</li>
+                                <li>Stanza per l’isolamento con bagno privato (2 posti);</li>
+                                <li>Stanza per la marsupio terapia con bagno privato (4 posti);</li>
+                                <li>Stanza per le madri con il neonato in stretta osservazione;</li>
+                                <li>Bagni esterni (WC e docce);</li>
+                                <li>Bagno e changing room per lo staff;</li>
+                                <li>Store;</li>
+                                <li>Stanza per i follow up;</li>
+                                <li>Corridoio per l’attesa.</li>
+                            </ol>
+                            La posizione della Neonatologia è stata scelta affinché la nurse station sia facilmente collegata alla sala operatoria e alla sala parto grazie ad un corridoio e ad una porta d’emergenza agibile solo dallo staff.
+                            <img class="center" width="560" src="img/ikelu/ikelu_09.jpg" oncontextmenu="return false;">
+                            <img class="center" width="560" src="img/ikelu/ikelu_10.jpg" oncontextmenu="return false;">
                             <br>
                             <h3 id="centr">IMPIANTO EOLICO</h3>
                             <p>
