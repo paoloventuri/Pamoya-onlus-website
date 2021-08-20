@@ -57,6 +57,9 @@
                         <p>
                             Si può diventare soci dell'associazione, presentando apposita domanda al presidente.
                         </p>
+                        <br>
+                        <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/eNW6V65lGfY" frameborder="0" allowfullscreen></iframe>
+                        <br>
                         <p>
                             <img src="img/home/home_01.jpg" oncontextmenu="return false;">
                             <img src="img/home/home_02.jpg" oncontextmenu="return false;">
