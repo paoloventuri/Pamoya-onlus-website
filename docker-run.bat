@@ -1,0 +1,1 @@
+docker run -d -p 8080:80 -v C:\Users\ventu\workspace_git\Pamoya-onlus-website:/var/www/html/ php:apache
