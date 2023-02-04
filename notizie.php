@@ -38,6 +38,15 @@
                     <div class="col-lg-12">
                         <p>
                         <br>
+                        <h3>NUOVO CENTRO POLIFUNZIONALE</h3>
+                        <p>                            
+                            L'iniziativa nasce da Pamoya per sopperire alla difficoltà di trovare personale disponibile a trasferirsi a Ikelu: l'idea è quella di costruire una scuola polifunzionale.<br>
+                            Ad ottobre 2021 è stato costituito un gruppo formato da sei persone (due di Pamoya, la Superiora della congregazione, la direttrice dell'ospedale, don Tarcisio e don Metodio missionario Tanzaniano che ha studiato in Italia).<br>
+                            A maggio 2022 ad un convegno, organizzato dal dott. Lucio Macchi presso l'ospedale Fatebenefratelli di Milano, è stata ufficializzata l'iniziativa.<br>
+                            Nel frattempo è stato redatto un progetto al fine di poter ragionare su una proposta concreta: l'architetto progettista ha consegnato il suo lavoro che potete visionare tramite le immagini qui sotto.<br>
+                        </p>                        
+                        <?php slider('img/istituto', 1);?>
+                        <br>
                         <h3>PROGETTO NEONATOLOGIA</h3>
                         <p>
                             Giorno 17 Febbraio 2021 ore 10.55 del mattino, inizio scavi.<br>
