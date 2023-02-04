@@ -16,6 +16,7 @@
          </ul>
       </li>
       <li><a href="stanza_prematuri.php" title="">Chumba cha watoto njiti</a></li>
+      <li><a href="ustionati.php" title="">Progetto ustionati</a></li>
       <li><a href="vill_tumaini.php" title="">Villaggio Tumaini</a></li>
       <li><a href="wangingombe_ilembula.php" title="">Wangingombe e Ilembula</a></li>
       <li><a href="vill_grandi.php" title="">Villaggio Grandi</a></li>
