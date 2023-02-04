@@ -29,6 +29,40 @@
             <div class="row">
                <div class="col-lg-12">
                   <h1 class="page-header">Chumba cha watoto njiti</h1>
+
+                  <h2 class="page-header">Aggiornamento 2022</h2>
+                  <p> 
+                     Il Progetto Prematuri è nato 4 anni fa e da allora continua a crescere grazie ai donatori. <br>
+                     Sostenendo il progetto prematuri si sostengono i ricoveri di tutti i neonati, nati o trasferiti presso il Saint Joseph, con un peso inferiore a 1,6kg e di tutti i neonati in difficoltà; inoltre si sostiene il follow up completo per tutti i dimessi dalla NICU.<br>
+                     Il ricovero di un neonato prematuro può durare anche alcune settimane, se non mesi, e Pamoya si prende carico delle spese relative al ricovero, alla terapia e ai dispositivi necessari per le cure, e agli esami e alle visite durante il follow up.<br>
+                     Per sostenere il ricovero completo e il follow up di un neonato in media sono necessari 75euro. <br>
+                     Nel 2022 è stato completato da Pamoya Onlus il progetto di costruire e rendere funzionante il reparto di Neonatologia presso il Saint Joseph Hospital di Ikelu.<br>
+                     Oltre alla costruzione dell’edificio, Pamoya ha allestito anche l’interno del reparto, con incubatrici, pompe per infusione, una lampada per la fototerapia e altri dispositivi necessari alla cura dei neonati.<br>
+                     L’inaugurazione è avvenuta ad Aprile 2022 ma il reparto era già funzionante da Gennaio.<br>
+                     Oltre ai neonati prematuri, anche quelli nati a termine ma con patologie hanno iniziato ad usufruire dei servizi della neonatologia.<br>
+                     Molte madri hanno deciso di partorire a Ikelu grazie al servizio offerto dalla NICU, e molte altre hanno trasferito i loro neonati da altre strutture ad Ikelu per poter ricevere le cure migliori.<br>
+                     In totale nel 2022 sono stati ricoverati 342 neonati presso la terapia intensiva neonatale del Saint Joseph Hospital.<br>
+                     Il 25% di questi è nato prematuro con un peso alla nascita inferiore ai 1600g.<br>
+                     Il 32% dei neonati non è nato ad Ikelu ma è stato trasferito da altri ospedali o dispensari su richiesta della madre.<br>
+                     Purtroppo alcuni neonati sono deceduti, in particolare quelli arrivati in reparto in condizioni molto critiche e alcuni dei più piccolini, nati con un peso inferiore a 800g.<br>
+                     Per migliorare il servizio e far si che non ci siano più perdite tra i piccoli pazienti della NICU, è necessario un costante aggiornamento del personale sanitario, e questo refresh avrà luogo grazie ad una collaborazione con Il Rotary di La Spezia, il Centro di Simulazione NINA di Pisa e i Neonatologi dell’ospedale universitario di Pisa, che hanno già iniziato un corso di aggiornamento per gli infermieri e i medici della neonatologia e della sala parto.<br>
+                     Inoltre è necessario l’ampliamento del materiale a disposizione, ovvero isole per la rianimazione neonatale, una C-Pap, pompe per infusione e altri dispositivi che ancora mancano all’ospedale di Ikelu.<br>
+                     <br>
+                     <h4>
+                        Per donare e sostenere il progetto<br>
+                        Causale:<br>
+                        Progetto Prematuri<br>
+                        Coordinate Bancarie:<br>
+                        BANCA POPOLARE DI SONDRIO Filiale di Edolo (BS)<br>
+                        ABI: 05696<br>
+                        CAB: 54470<br>
+                        CIN: O<br>
+                        IBAN: IT51O0569654470000055555X61<br>
+                     </h4>
+                     
+                     <?php slider('img/prematuri/2022', 1);?>
+                  </p>
+                  <br>
                   <h2 class="page-header">Stanza adibita ai prematuri e/o ai neonati con peso alla nascita inferiore a 2500 g e ai neonati richiedenti assistenza specifica</h2>
                   <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/y_Y65Uabr-c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
                   <br>
